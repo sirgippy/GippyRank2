@@ -1,0 +1,2512 @@
+23-Aug-14 Evangel                     40 Arizona Christian           16
+23-Aug-14 Sam Houston St              35 Eastern Washington          56
+23-Aug-14 Waldorf                     48 Mayville St                  0
+23-Aug-14 Eastern Oregon              45 Menlo                       27
+23-Aug-14 Montana Tech                 6 Montana-Western             38
+27-Aug-14 Abilene Christian           37 Georgia St                  38
+28-Aug-14 Howard                       0 Akron                       41
+28-Aug-14 Weber St                    14 Arizona St                  45
+28-Aug-14 Pikeville                   62 Bluefield                   40
+28-Aug-14 UNC-Charlotte               33 Campbell                     9
+28-Aug-14 Lindsey Wilson              44 Campbellsville              40
+28-Aug-14 Chattanooga                 16 Central Michigan            20
+28-Aug-14 Point U.                     9 Charleston Southern         61
+28-Aug-14 Wake Forest                 10 Louisiana-Monroe            17
+28-Aug-14 Reinhardt                   42 Mercer                      45
+28-Aug-14 Eastern Illinois            20 Minnesota                   42
+28-Aug-14 Boise St                    13 Mississippi                 35 Atlanta GA
+28-Aug-14 Union KY                    26 Murray St                   73
+28-Aug-14 Cal Poly SLO                10 New Mexico St               28
+28-Aug-14 Presbyterian                 3 Northern Illinois           55
+28-Aug-14 Missouri St                 34 Northwestern St             27
+28-Aug-14 Eastern Kentucky            29 Robert Morris PA            10
+28-Aug-14 North Dakota                10 San José St                 42
+28-Aug-14 Missouri Baptist             0 SE Missouri St              77
+28-Aug-14 Texas A&M                   52 South Carolina              28
+28-Aug-14 Taylor                       0 Southern Illinois           45
+28-Aug-14 Bryant                      13 Stony Brook                  7
+28-Aug-14 Kentucky Christian           7 Tennessee Tech              33
+28-Aug-14 Tulane                      31 Tulsa                       38
+28-Aug-14 Idaho St                    14 Utah                        56
+28-Aug-14 Jamestown                    7 Valley City St              31
+28-Aug-14 Temple                      37 Vanderbilt                   7
+28-Aug-14 Rutgers                     41 Washington St               38 Seattle WA
+28-Aug-14 Valparaiso                   6 Western Illinois            45
+29-Aug-14 UNLV                        13 Arizona                     58
+29-Aug-14 Colorado St                 31 Colorado                    17 Denver CO
+29-Aug-14 Brigham Young               35 Connecticut                 10
+29-Aug-14 Texas-San Antonio           27 Houston                      7
+29-Aug-14 Jacksonville St              7 Michigan St                 45
+29-Aug-14 Villanova                   26 Syracuse                    27
+29-Aug-14 Bowling Green               31 Western Kentucky            59
+30-Aug-14 Nicholls St                 16 Air Force                   44
+30-Aug-14 West Virginia               23 Alabama                     33 Atlanta GA
+30-Aug-14 Troy                        10 Alabama-Birmingham          48
+30-Aug-14 Holy Cross                  13 Albany NY                   14
+30-Aug-14 VA-Lynchburg                 7 Alcorn St                   55
+30-Aug-14 Wayland Baptist             28 Arizona Christian           21
+30-Aug-14 Montana St                  10 Arkansas St                 37
+30-Aug-14 Arkansas                    21 Auburn                      45
+30-Aug-14 Colgate                     10 Ball St                     30
+30-Aug-14 South Carolina St           63 Benedict                     0
+30-Aug-14 Benedictine KS              21 Briar Cliff                  3 Vermillion SD
+30-Aug-14 VMI                         38 Bucknell                    42
+30-Aug-14 Duquesne                    28 Buffalo                     38
+30-Aug-14 Mayville St                 20 Dakota St                   28
+30-Aug-14 Rocky Mountain              40 Dickinson St                21
+30-Aug-14 Grand View                  45 Drake                       22
+30-Aug-14 Elon                        13 Duke                        52
+30-Aug-14 North Carolina Central       7 East Carolina               52
+30-Aug-14 Morgan St                   28 Eastern Michigan            31
+30-Aug-14 Montana-Western              9 Eastern Washington          41
+30-Aug-14 Bethune-Cookman             14 Florida Int'l               12
+30-Aug-14 St Francis PA               23 Fordham                     52
+30-Aug-14 Gardner-Webb                 3 Furman                      13
+30-Aug-14 Wagner                      21 Georgetown DC                3
+30-Aug-14 Clemson                     21 Georgia                     45
+30-Aug-14 Wofford                     19 Georgia Tech                38
+30-Aug-14 Bethel KS                   37 Haskell                      6
+30-Aug-14 Washington                  17 Hawai`i                     16
+30-Aug-14 Youngstown St               17 Illinois                    28
+30-Aug-14 Sacramento St               49 Incarnate Word              13
+30-Aug-14 Indiana St                  10 Indiana                     28
+30-Aug-14 Northern Iowa               23 Iowa                        31
+30-Aug-14 North Dakota St             34 Iowa St                     14
+30-Aug-14 Florida A&M                 17 Jackson St                  22
+30-Aug-14 Stephen F. Austin           16 Kansas St                   55
+30-Aug-14 Ohio U.                     17 Kent St                     14
+30-Aug-14 Tennessee-Martin            14 Kentucky                    59
+30-Aug-14 Grambling St                27 Lamar                       42
+30-Aug-14 Southern U.                  6 Louisiana-Lafayette         45
+30-Aug-14 Wisconsin                   24 LSU                         28 Houston TX
+30-Aug-14 Norfolk St                   6 Maine                       10
+30-Aug-14 James Madison                7 Maryland                    52
+30-Aug-14 Boston College              30 Massachusetts                7
+30-Aug-14 Austin Peay                  0 Memphis                     63
+30-Aug-14 Southern Oregon             51 Menlo                       14
+30-Aug-14 Marshall                    42 Miami OH                    27
+30-Aug-14 Appalachian St              14 Michigan                    52
+30-Aug-14 Savannah St                  7 Middle Tennessee St         61
+30-Aug-14 Southern Miss                0 Mississippi St              49
+30-Aug-14 South Dakota St             18 Missouri                    38
+30-Aug-14 Delaware St                 21 Monmouth NJ                 52
+30-Aug-14 Montana St-Northern         24 Montana Tech                38
+30-Aug-14 Ohio State                  34 Navy                        17 Baltimore MD
+30-Aug-14 Florida Atlantic             7 Nebraska                    55
+30-Aug-14 Southern Utah               19 Nevada                      28
+30-Aug-14 UTEP                        31 New Mexico                  24
+30-Aug-14 Liberty                     29 North Carolina              56
+30-Aug-14 Georgia Southern            23 North Carolina St           24
+30-Aug-14 California                  31 Northwestern                24
+30-Aug-14 Bacone                      41 Northwestern IA             33
+30-Aug-14 Rice                        17 Notre Dame                  48
+30-Aug-14 Louisiana Tech              16 Oklahoma                    48
+30-Aug-14 Florida St                  37 Oklahoma St                 31 Arlington TX
+30-Aug-14 Hampton                     28 Old Dominion                41
+30-Aug-14 South Dakota                13 Oregon                      62
+30-Aug-14 Portland St                 14 Oregon St                   29
+30-Aug-14 Central Florida             24 Penn State                  26 Dublin IE
+30-Aug-14 Delaware                     0 Pittsburgh                  62
+30-Aug-14 Western Michigan            34 Purdue                      43
+30-Aug-14 Morehead St                 10 Richmond                    55
+30-Aug-14 Marist                       7 Sacred Heart                28
+30-Aug-14 Alabama St                  20 Sam Houston St              51
+30-Aug-14 Northern Arizona             7 San Diego St                38
+30-Aug-14 Jacksonville FL              3 SE Louisiana                44
+30-Aug-14 Western Carolina            31 South Florida               36
+30-Aug-14 Fresno St                   13 Southern Cal                52
+30-Aug-14 Oklahoma Baptist            47 Southwestern KS             17
+30-Aug-14 UC-Davis                     0 Stanford                    45
+30-Aug-14 Samford                     14 TCU                         48
+30-Aug-14 Edward Waters                6 Tennessee St                58
+30-Aug-14 North Texas                  7 Texas                       38
+30-Aug-14 Belhaven                    44 Texas College                6
+30-Aug-14 Arkansas-Pine Bluff          0 Texas St-San Marcos         65
+30-Aug-14 Central Arkansas            35 Texas Tech                  42
+30-Aug-14 Coastal Carolina            31 The Citadel                 16
+30-Aug-14 New Hampshire               20 Toledo                      54
+30-Aug-14 Central Conn St             31 Towson                      27
+30-Aug-14 UCLA                        28 Virginia                    20
+30-Aug-14 William & Mary               9 Virginia Tech               34
+30-Aug-14 Trinity Bible               42 Waldorf                     68
+30-Aug-14 Stetson                     35 Warner U.                   16
+30-Aug-14 Faulkner                    34 Webber Int'l                20
+30-Aug-14 Bethel TN                   13 William Penn                52
+30-Aug-14 Montana                     12 Wyoming                     17
+31-Aug-14 North Carolina A&T          47 Alabama A&M                 13 Orlando FL
+31-Aug-14 SMU                          0 Baylor                      45
+31-Aug-14 Utah St                      7 Tennessee                   38
+31-Aug-14 Prairie View A&M            35 Texas Southern              37 Houston TX
+01-Sep-14 Miami FL                    13 Louisville                  31
+04-Sep-14 OK Panhandle St              7 Adams St                    23
+04-Sep-14 NW Oklahoma St              14 Arkansas Tech               33
+04-Sep-14 American Int'l              27 Assumption                  25
+04-Sep-14 Grand Valley St             23 Azusa Pacific               26
+04-Sep-14 Edinboro                    24 Carson-Newman               38
+04-Sep-14 West Texas A&M               6 Colorado St-Pueblo          35
+04-Sep-14 Missouri Southern           28 Emporia St                  53
+04-Sep-14 Notre Dame OH               42 Fairmont St                 35
+04-Sep-14 Central Oklahoma            26 Fort Hays St                 7
+04-Sep-14 Kentucky Wesleyan           21 Kentucky St                 41
+04-Sep-14 Cheyney                     18 Lincoln PA                  30
+04-Sep-14 Quincy                      29 Lindenwood-Belleville       15
+04-Sep-14 Ferris St                   75 McKendree                   14
+04-Sep-14 Livingstone                 46 Millersville                44
+04-Sep-14 St Cloud St                  0 Minn St-Mankato             31
+04-Sep-14 Central Missouri             9 Missouri Western            10
+04-Sep-14 Ave Maria                   21 North Greenville            45
+04-Sep-14 Winona St                   47 Northern St SD              13
+04-Sep-14 Nebraska-Kearney             7 NW Missouri St              31
+04-Sep-14 Shippensburg                55 Seton Hill                  30
+04-Sep-14 Paine                       24 Shorter                     28
+04-Sep-14 Missouri Baptist            10 St Francis IN               42
+04-Sep-14 East Texas Baptist          20 TAMU-Commerce               98
+04-Sep-14 Texas College               14 Texas Southern              52
+04-Sep-14 Arizona                     26 Texas-San Antonio           23
+04-Sep-14 Lindenwood                  44 Washburn                    38
+04-Sep-14 Michigan Tech               18 Wayne St MI                 17
+04-Sep-14 SW Baptist                  26 William Jewell              29
+05-Sep-14 Fitchburg St                28 Becker                       6
+05-Sep-14 Pittsburgh                  30 Boston College              20
+05-Sep-14 Salve Regina                33 Bridgewater St MA           27
+05-Sep-14 McDaniel                    34 Catholic                    31
+05-Sep-14 WPI                         29 Curry                        7
+05-Sep-14 Albright                    25 Kean                        14
+05-Sep-14 UMass-Dartmouth             21 Mount Ida                   14
+05-Sep-14 Washington St               13 Nevada                      24
+05-Sep-14 Ursinus                     47 New Jersey                   7
+05-Sep-14 Widener                     19 Rowan                        7
+05-Sep-14 Western New England         38 Springfield                 34
+05-Sep-14 William Paterson            36 SUNY-Maritime               20
+05-Sep-14 Waldorf                      7 UW-Whitewater               73
+05-Sep-14 Nichols                     22 Westfield St                30
+05-Sep-14 Anna Maria                   6 Worcester St                38
+06-Sep-14 Northern Arizona            27 Abilene Christian           21
+06-Sep-14 Florida Atlantic             0 Alabama                     41
+06-Sep-14 Tennessee St                21 Alabama St                  27
+06-Sep-14 Husson                      17 Alfred                      34
+06-Sep-14 Thiel                       28 Allegheny                   14
+06-Sep-14 Taylor                      56 Anderson                    10
+06-Sep-14 Campbell                     0 Appalachian St              66
+06-Sep-14 Merchant Marine             23 Apprentice                  19
+06-Sep-14 Nicholls St                  7 Arkansas                    73
+06-Sep-14 East Central OK             38 Arkansas-Monticello         34
+06-Sep-14 Concordia AL                 0 Arkansas-Pine Bluff         31
+06-Sep-14 Buffalo                     39 Army                        47
+06-Sep-14 Lake Erie                   21 Ashland                     66
+06-Sep-14 San José St                 13 Auburn                      59
+06-Sep-14 Wartburg                    40 Augsburg                     3
+06-Sep-14 Rhodes                      34 Austin                      13
+06-Sep-14 Washington and Lee          17 Averett                     20
+06-Sep-14 Haskell                     13 Avila                       61
+06-Sep-14 McPherson                    7 Bacone                      24
+06-Sep-14 Northwestern St              6 Baylor                      70
+06-Sep-14 Mississippi College         14 Belhaven                    32
+06-Sep-14 Central IA                  31 Benedictine IL               7
+06-Sep-14 Mercyhurst                  21 Bentley                     27
+06-Sep-14 SW Assem of God             14 Bethany KS                  21
+06-Sep-14 Mount Union                 58 Bethany WV                   7
+06-Sep-14 Kentucky Christian          30 Bethel TN                    9
+06-Sep-14 LaGrange                    34 Birmingham-Southern         28
+06-Sep-14 Ohio Wesleyan               40 Bluffton                    20
+06-Sep-14 Colorado St                 24 Boise St                    37
+06-Sep-14 St Anselm                   23 Bowie St                    22
+06-Sep-14 VMI                          7 Bowling Green               48
+06-Sep-14 Oberlin                     10 Brockport St                45
+06-Sep-14 Merrimack                   14 Bryant                      40
+06-Sep-14 UW-Platteville              63 Buena Vista                  3
+06-Sep-14 Cortland St                 48 Buffalo St                  51
+06-Sep-14 Sacramento St               14 California                  55
+06-Sep-14 Virginia St                 24 California PA               33
+06-Sep-14 St Norbert                  25 Carthage                    13
+06-Sep-14 Carnegie Mellon              0 Case Western Reserve        30
+06-Sep-14 Plymouth St                 13 Castleton St                20
+06-Sep-14 Tennessee-Martin            24 Central Arkansas            26
+06-Sep-14 Albany NY                   19 Central Conn St              0
+06-Sep-14 Clark Atlanta               18 Central St OH               28
+06-Sep-14 Hanover                     17 Centre                      42
+06-Sep-14 Missouri S&T                25 Chadron St                  42
+06-Sep-14 Newberry                    10 Charleston Southern         16
+06-Sep-14 Jacksonville St             26 Chattanooga                 23
+06-Sep-14 Beloit                       6 Chicago                     28
+06-Sep-14 Fayetteville St             22 Chowan                      26
+06-Sep-14 Salisbury                   41 Christopher Newport         32
+06-Sep-14 South Carolina St            7 Clemson                     73
+06-Sep-14 St Lawrence                 45 Coast Guard                 14
+06-Sep-14 Dixie St                    37 Colorado Mesa               44
+06-Sep-14 Glenville St                27 Concord                     54
+06-Sep-14 Trinity Int'l               49 Concordia MI                 3
+06-Sep-14 Stony Brook                 16 Connecticut                 19
+06-Sep-14 MacMurray                   14 Culver-Stockton             41
+06-Sep-14 Cumberlands KY              27 Cumberland TN               34
+06-Sep-14 UW-Stout                    19 Dakota Wesleyan             23
+06-Sep-14 Catawba                     35 Davidson                     7
+06-Sep-14 Georgetown DC               14 Dayton                      23
+06-Sep-14 Adrian                      35 Defiance                    13
+06-Sep-14 Sewanee                     13 DePauw                      31
+06-Sep-14 Friends                     33 Doane                        7
+06-Sep-14 Dakota St                   41 Dordt                        7
+06-Sep-14 Truman St                    7 Drake                       13
+06-Sep-14 UW-La Crosse                24 Dubuque                      8
+06-Sep-14 Denison                     35 Earlham                      6
+06-Sep-14 Southern Illinois           38 Eastern Illinois            21
+06-Sep-14 Morehouse                   31 Edward Waters               16
+06-Sep-14 Southeastern U.             24 Faulkner                    45
+06-Sep-14 Emory & Henry               41 Ferrum                      12
+06-Sep-14 Hillsdale                   38 Findlay                     46
+06-Sep-14 Eastern Michigan             0 Florida                     65
+06-Sep-14 Wagner                       3 Florida Int'l               34
+06-Sep-14 The Citadel                 12 Florida St                  37
+06-Sep-14 Delta St                    56 Fort Valley St              13
+06-Sep-14 Endicott                    17 Framingham St               20
+06-Sep-14 Lebanon Valley              21 Franklin & Marshall         28
+06-Sep-14 Geneva                      19 Frostburg St                24
+06-Sep-14 Southern Conn St             7 Gannon                      23
+06-Sep-14 Arizona Christian           30 George Fox                  27
+06-Sep-14 Savannah St                  9 Georgia Southern            83
+06-Sep-14 New Mexico St               34 Georgia St                  31
+06-Sep-14 Bridgewater VA              33 Gettysburg                  32
+06-Sep-14 Graceland                   10 Grand View                  40
+06-Sep-14 Millikin                    66 Greenville                  24
+06-Sep-14 Juniata                     21 Grove City                  13
+06-Sep-14 Greensboro                   0 Guilford                    52
+06-Sep-14 Crown                       17 Gustavus Adolphus           44
+06-Sep-14 William & Mary              42 Hampton                     14
+06-Sep-14 SW Oklahoma St               6 Harding                     42
+06-Sep-14 Oregon St                   38 Hawai`i                     30
+06-Sep-14 Alma                         7 Heidelberg                  72
+06-Sep-14 Dickinson                   21 Hobart                      33
+06-Sep-14 Morgan St                   26 Holy Cross                  29
+06-Sep-14 Grambling St                 0 Houston                     47
+06-Sep-14 McMurry                     26 Houston Baptist             17
+06-Sep-14 Western Kentucky            34 Illinois                    42
+06-Sep-14 Aurora                       6 Illinois College            49
+06-Sep-14 Mississippi Valley St        0 Illinois St                 62
+06-Sep-14 Franklin                    35 Illinois Wesleyan           42
+06-Sep-14 St Augustine's              19 Indiana PA                  41
+06-Sep-14 Tennessee Tech              14 Indiana St                  49
+06-Sep-14 Ball St                     13 Iowa                        17
+06-Sep-14 Kansas St                   32 Iowa St                     28
+06-Sep-14 Simpson                     43 Iowa Wesleyan                7
+06-Sep-14 Union NY                    16 Ithaca                      21
+06-Sep-14 VA-Lynchburg                 0 Jackson St                  59
+06-Sep-14 Concordia-Moorhead          40 Jamestown                   13
+06-Sep-14 St Vincent                   0 John Carroll                44
+06-Sep-14 Randolph-Macon               3 Johns Hopkins               42
+06-Sep-14 Rose-Hulman                 40 Kalamazoo                   13
+06-Sep-14 SE Missouri St              28 Kansas                      34
+06-Sep-14 Hastings                    61 Kansas Wesleyan             21
+06-Sep-14 South Alabama               23 Kent St                     13
+06-Sep-14 Ohio U.                      3 Kentucky                    20
+06-Sep-14 Marietta                    29 Kenyon                      11
+06-Sep-14 Eureka                      23 Knox                        26
+06-Sep-14 Carroll WI                  33 Lakeland                     7
+06-Sep-14 Benedict                    39 Lane                         7
+06-Sep-14 James Madison               31 Lehigh                      28
+06-Sep-14 Point U.                    10 Lenoir-Rhyne                41
+06-Sep-14 Wingate                     38 Limestone                   10
+06-Sep-14 Langston                    49 Lincoln MO                  48 Kansas City MO
+06-Sep-14 Reinhardt                   52 Lindsey Wilson              48
+06-Sep-14 East Stroudsburg            43 LIU Post                    35
+06-Sep-14 Elmhurst                    17 Loras                       39
+06-Sep-14 Huntingdon AL               42 Louisiana College           49
+06-Sep-14 Louisiana Tech              48 Louisiana-Lafayette         20
+06-Sep-14 Idaho                       31 Louisiana-Monroe            38
+06-Sep-14 Murray St                   21 Louisville                  66
+06-Sep-14 Sam Houston St               0 LSU                         56
+06-Sep-14 Presentation                33 Luther                      35
+06-Sep-14 Susquehanna                 13 Lycoming                    42
+06-Sep-14 Carleton                    14 Macalester                  17
+06-Sep-14 Martin Luther               63 Maranatha Baptist           24
+06-Sep-14 St Xavier                   65 Marian IN                   38
+06-Sep-14 Bucknell                    22 Marist                       0
+06-Sep-14 Rhode Island                 7 Marshall                    48
+06-Sep-14 SW Minnesota St             18 Mary                        19
+06-Sep-14 Berry                       14 Maryville                   41
+06-Sep-14 Colorado                    41 Massachusetts               38
+06-Sep-14 Furman                      25 Mercer                      20
+06-Sep-14 Southern Virginia           21 Methodist                   36
+06-Sep-14 Florida A&M                  7 Miami FL                    41
+06-Sep-14 Eastern Kentucky            17 Miami OH                    10
+06-Sep-14 Shaw                         6 Miles                       30
+06-Sep-14 Mary Hardin-Baylor          43 Millsaps                     7
+06-Sep-14 Middle Tennessee St         24 Minnesota                   35
+06-Sep-14 Augustana SD                54 Minnesota-Crookston          0
+06-Sep-14 Concordia-St Paul           13 Minnesota-Duluth            20
+06-Sep-14 Hamline                     37 Minnesota-Morris             6
+06-Sep-14 Utica                       55 Misericordia                 0
+06-Sep-14 Alabama-Birmingham          34 Mississippi St              47
+06-Sep-14 Pomona-Pitzer               18 MIT                         28
+06-Sep-14 Hope                        20 Monmouth IL                 30
+06-Sep-14 Central Washington          14 Montana                     48
+06-Sep-14 Black Hills St              10 Montana St                  57
+06-Sep-14 Dickinson St                17 Montana St-Northern         40
+06-Sep-14 Rocky Mountain              37 Montana-Western             30
+06-Sep-14 Delaware Valley             30 Montclair St                20
+06-Sep-14 King's PA                   14 Moravian                    33
+06-Sep-14 Pikeville                   36 Morehead St                 49
+06-Sep-14 Alfred St                   17 Morrisville St              69
+06-Sep-14 Augustana IL                25 Mt St Joseph                58
+06-Sep-14 McNeese St                  24 Nebraska                    31
+06-Sep-14 West Chester                35 New Haven                   30
+06-Sep-14 Arizona St                  58 New Mexico                  23
+06-Sep-14 Eastern New Mexico          44 New Mexico Highlands        21
+06-Sep-14 Liberty                     17 Norfolk St                   0
+06-Sep-14 San Diego St                27 North Carolina              31
+06-Sep-14 Coastal Carolina            31 North Carolina A&T          30
+06-Sep-14 Elizabeth City St            7 North Carolina Central      34
+06-Sep-14 Old Dominion                34 North Carolina St           46
+06-Sep-14 Stevenson                   40 North Carolina Wesleyan     19
+06-Sep-14 Robert Morris PA            13 North Dakota                16
+06-Sep-14 Concordia WI                31 North Park                  28
+06-Sep-14 SMU                          6 North Texas                 43
+06-Sep-14 Northwood                   23 Northern Michigan           13
+06-Sep-14 Northern Illinois           23 Northwestern                15
+06-Sep-14 St Olaf                     16 Northwestern MN             17
+06-Sep-14 RPI                         29 Norwich                      9
+06-Sep-14 Michigan                     0 Notre Dame                  31
+06-Sep-14 Malone                      14 Ohio Dominican              59
+06-Sep-14 Virginia Tech               35 Ohio State                  21
+06-Sep-14 Missouri St                 23 Oklahoma St                 40
+06-Sep-14 Wilmington                  24 Olivet                      41
+06-Sep-14 Michigan St                 27 Oregon                      46
+06-Sep-14 Baker                       20 Ottawa                      12
+06-Sep-14 Alderson-Broaddus           57 Pace                        37
+06-Sep-14 Coll of Idaho               35 Pacific OR                  34
+06-Sep-14 Akron                        3 Penn State                  21
+06-Sep-14 Midland U.                  28 Peru St                     14
+06-Sep-14 Northeastern St OK           0 Pittsburg St                37
+06-Sep-14 Western Oregon              38 Portland St                 45 Hillsboro OR
+06-Sep-14 Bluefield                   14 Presbyterian                69
+06-Sep-14 Claremont-Mudd-Scripps      10 Puget Sound                 13
+06-Sep-14 Central Michigan            38 Purdue                      17
+06-Sep-14 Lawrence                     6 Rockford                    34
+06-Sep-14 Howard                      25 Rutgers                     38
+06-Sep-14 Lafayette                   14 Sacred Heart                27
+06-Sep-14 Indianapolis                24 Saginaw Valley St           10
+06-Sep-14 Western New Mexico          17 San Diego                   23
+06-Sep-14 Southern Utah               14 SE Louisiana                41
+06-Sep-14 Menlo                       31 Simon Fraser                24
+06-Sep-14 Minot St                    14 Sioux Falls                 41
+06-Sep-14 Kutztown                    26 Slippery Rock               37
+06-Sep-14 East Carolina               23 South Carolina              33
+06-Sep-14 William Penn                16 South Dakota                41
+06-Sep-14 Cal Poly SLO                18 South Dakota St             44
+06-Sep-14 Colorado Mines              43 South Dakota Tech           19
+06-Sep-14 Maryland                    24 South Florida               17
+06-Sep-14 SE Oklahoma St              29 Southern Arkansas           30
+06-Sep-14 Alcorn St                   20 Southern Miss               26
+06-Sep-14 Henderson St                72 Southern Nazarene            7
+06-Sep-14 Carroll MT                  35 Southern Oregon             38
+06-Sep-14 Central Methodist           14 Southern U.                 56
+06-Sep-14 Olivet Nazarene             10 St Francis IL               41
+06-Sep-14 Clarion                     13 St Francis PA               27
+06-Sep-14 Otterbein                   14 St John Fisher              36
+06-Sep-14 UW-River Falls               8 St John's MN                27
+06-Sep-14 Oklahoma Baptist            62 St Mary KS                  37
+06-Sep-14 Ripon                       27 St Scholastica              28
+06-Sep-14 UW-Eau Claire               17 St Thomas                   22
+06-Sep-14 Southern Cal                13 Stanford                    10
+06-Sep-14 Incarnate Word               3 Stephen F. Austin           38
+06-Sep-14 Concordia NE                21 Sterling                    15
+06-Sep-14 Florida Tech                54 Stetson                     12
+06-Sep-14 West Alabama                44 Stillman                    20
+06-Sep-14 Bloomsburg                  24 Stonehill                    7
+06-Sep-14 Nebraska Wesleyan            0 Tabor                       36
+06-Sep-14 Humboldt St                 27 TAMU-Kingsville             14
+06-Sep-14 Navy                        31 Temple                      24
+06-Sep-14 Arkansas St                 19 Tennessee                   34
+06-Sep-14 Brigham Young               41 Texas                        7
+06-Sep-14 Lamar                        3 Texas A&M                   73
+06-Sep-14 Sul Ross St                 15 Texas Lutheran              61
+06-Sep-14 Missouri                    49 Toledo                      24
+06-Sep-14 Howard Payne                30 Trinity TX                  27
+06-Sep-14 Duke                        34 Troy                        17
+06-Sep-14 Georgia Tech                38 Tulane                      21
+06-Sep-14 Oklahoma                    52 Tulsa                        7
+06-Sep-14 Alabama A&M                 30 Tuskegee                    17
+06-Sep-14 Fort Lewis                  17 UC-Davis                    52
+06-Sep-14 Memphis                     35 UCLA                        42
+06-Sep-14 Johnson C. Smith             0 UNC-Charlotte               56
+06-Sep-14 Northern Colorado           12 UNLV                        13
+06-Sep-14 Minn St-Moorhead            36 Upper Iowa                  44
+06-Sep-14 Virginia-Wise               13 Urbana                      24
+06-Sep-14 Fresno St                   27 Utah                        59
+06-Sep-14 Idaho St                    20 Utah St                     40
+06-Sep-14 Texas Tech                  30 UTEP                        26
+06-Sep-14 Robert Morris IL            27 UW-Oshkosh                  19
+06-Sep-14 Albion                      31 UW-Stevens Point            42
+06-Sep-14 Albany St GA                10 Valdosta St                 38
+06-Sep-14 Morningside                 56 Valley City St              14
+06-Sep-14 St Joseph's IN              31 Valparaiso                  10
+06-Sep-14 Mississippi                 41 Vanderbilt                   3
+06-Sep-14 Fordham                      6 Villanova                   50
+06-Sep-14 Richmond                    13 Virginia                    45
+06-Sep-14 Siena Heights                0 Virginia Union              12
+06-Sep-14 Hampden-Sydney              21 Wabash                      34
+06-Sep-14 Gardner-Webb                 7 Wake Forest                 23
+06-Sep-14 Tiffin                      10 Walsh                       45
+06-Sep-14 Webber Int'l                10 Warner U.                   14
+06-Sep-14 Wooster                     17 Wash & Jeff                 51
+06-Sep-14 Eastern Washington          52 Washington                  59
+06-Sep-14 Ohio Northern               31 Washington U.               24
+06-Sep-14 Western St CO               38 Wayland Baptist             21
+06-Sep-14 Bemidji St                  13 Wayne St NE                 35
+06-Sep-14 Muskingum                    0 Waynesburg                  33
+06-Sep-14 North Dakota St             24 Weber St                     7
+06-Sep-14 Thomas More                 20 Wesley                      35
+06-Sep-14 Mars Hill                   26 West Georgia                38
+06-Sep-14 Shepherd                    38 West Liberty                13
+06-Sep-14 Towson                       0 West Virginia               54
+06-Sep-14 Lock Haven                  14 West Virginia St            19
+06-Sep-14 Brevard                     21 Western Carolina            45
+06-Sep-14 Hendrix                     42 Westminster MO              28
+06-Sep-14 Hiram                       30 Westminster PA              27
+06-Sep-14 Coe                         28 Wheaton                     36
+06-Sep-14 Lewis & Clark               10 Whitworth                   63
+06-Sep-14 Muhlenberg                  34 Wilkes                       0
+06-Sep-14 UNC-Pembroke                 7 Winston-Salem St            38
+06-Sep-14 Western Illinois             3 Wisconsin                   37
+06-Sep-14 Lake Forest                 20 Wisconsin Lutheran          14
+06-Sep-14 Butler                      22 Wittenberg                  16
+06-Sep-14 Charleston WV               42 WV Wesleyan                 21
+06-Sep-14 Air Force                   13 Wyoming                     17
+06-Sep-14 Duquesne                    23 Youngstown St               34
+07-Sep-14 Delaware St                  9 Delaware                    27
+07-Sep-14 Shenandoah                  20 Gallaudet                    0
+07-Sep-14 Trine                       28 Manchester                  29
+07-Sep-14 Hartwick                    43 Western Conn St             38
+11-Sep-14 Houston                     25 Brigham Young               33
+11-Sep-14 Emporia St                  31 Central Missouri            50
+11-Sep-14 Campbell                    10 Charleston Southern         34
+11-Sep-14 Pittsburg St                38 Lindenwood                   7
+11-Sep-14 NW Missouri St              40 Missouri Southern           14
+11-Sep-14 Washburn                    10 Nebraska-Kearney             7
+11-Sep-14 Louisiana Tech              42 North Texas                 21
+11-Sep-14 Stillman                     0 Samford                     52
+11-Sep-14 Mass Maritime               30 SUNY-Maritime               31
+11-Sep-14 Cumberland TN                7 Tennessee-Martin            63
+12-Sep-14 Stonehill                   24 Bentley                     17                      
+12-Sep-14 Baylor                      63 Buffalo                     21
+12-Sep-14 Toledo                      34 Cincinnati                  58
+12-Sep-14 New Jersey                  17 FDU-Florham                 13
+12-Sep-14 Curry                        7 Fitchburg St                21
+12-Sep-14 Springfield                 41 UMass-Dartmouth             20
+12-Sep-14 Worcester St                30 WPI                         17  
+13-Sep-14 Carthage                    14 Adrian                      40 
+13-Sep-14 Southern Miss               12 Alabama                     52 
+13-Sep-14 Mississippi Valley St       22 Alabama St                  47 
+13-Sep-14 Alabama A&M                 14 Alabama-Birmingham          41 
+13-Sep-14 Illinois Wesleyan           35 Albion                      28 
+13-Sep-14 Lycoming                    26 Albright                     0 
+13-Sep-14 Louisiana College           10 Alcorn St                   52 
+13-Sep-14 Chowan                       7 Alderson-Broaddus           47 
+13-Sep-14 Rochester                   35 Alfred St                   21 
+13-Sep-14 North Park                   7 Alma                        31 
+13-Sep-14 Western St CO                6 Angelo St                   38 
+13-Sep-14 Maine Maritime              42 Anna Maria                  12 
+13-Sep-14 Bluefield                   46 Apprentice                  24 
+13-Sep-14 Nevada                      28 Arizona                     35 
+13-Sep-14 Western New Mexico          52 Arizona Christian           35 
+13-Sep-14 Walsh                       17 Ashland                     41 
+13-Sep-14 Minnesota-Duluth            23 Augustana SD                22 
+13-Sep-14 Chattanooga                 42 Austin Peay                  6 
+13-Sep-14 Bethel KS                   24 Avila                       41 
+13-Sep-14 Sterling                    30 Baker                       31 
+13-Sep-14 Bluffton                    20 Baldwin Wallace             32 
+13-Sep-14 Indiana St                  27 Ball St                     20 
+13-Sep-14 Grinnell                    23 Beloit                      27 
+13-Sep-14 Sioux Falls                 52 Bemidji St                  19 
+13-Sep-14 Ottawa                      59 Benedictine KS              47 
+13-Sep-14 Grambling St                23 Bethune-Cookman             36 
+13-Sep-14 South Dakota Tech           30 Black Hills St              42 
+13-Sep-14 California PA               21 Bloomsburg                  24 
+13-Sep-14 Southern Cal                31 Boston College              37 
+13-Sep-14 Indiana                     42 Bowling Green               45 
+13-Sep-14 Greensboro                  14 Bridgewater VA              43 
+13-Sep-14 Maine                       10 Bryant                      13 
+13-Sep-14 Webber Int'l                 7 Campbellsville              20 
+13-Sep-14 Knox                        14 Carleton                    40 
+13-Sep-14 Montana Tech                10 Carroll MT                  38 
+13-Sep-14 Benedictine IL               6 Carroll WI                  34 
+13-Sep-14 Monmouth IL                 28 Central IA                  21 
+13-Sep-14 Kansas Wesleyan             22 Central Methodist           35 
+13-Sep-14 Syracuse                    40 Central Michigan             3 
+13-Sep-14 Missouri Western            17 Central Oklahoma            26 
+13-Sep-14 Texas Southern              30 Central St OH               16 Nassau BA
+13-Sep-14 Dixie St                    14 Central Washington          48 
+13-Sep-14 Linfield                    21 Chapman                     14 
+13-Sep-14 Gannon                      48 Cheyney                      0 
+13-Sep-14 Concordia IL                 0 Chicago                     38 
+13-Sep-14 Lewis & Clark               14 Claremont-Mudd-Scripps      36 
+13-Sep-14 Lane                        17 Clark Atlanta               20 
+13-Sep-14 Merchant Marine             31 Coast Guard                 42 
+13-Sep-14 South Carolina St            3 Coastal Carolina            30 
+13-Sep-14 Montana-Western             28 Coll of Idaho               31 
+13-Sep-14 Arizona St                  38 Colorado                    24 
+13-Sep-14 William Jewell               0 Colorado Mines              46 
+13-Sep-14 UC-Davis                    21 Colorado St                 49 
+13-Sep-14 Point U.                    14 Concordia AL                27 
+13-Sep-14 Anderson                    18 Concordia MI                23 
+13-Sep-14 Augsburg                    55 Concordia WI                45 
+13-Sep-14 Buena Vista                  9 Concordia-Moorhead          30 
+13-Sep-14 Northern St SD              28 Concordia-St Paul           21 
+13-Sep-14 Boise St                    38 Connecticut                 21 
+13-Sep-14 Coe                         50 Cornell IA                  21 
+13-Sep-14 Brockport St                17 Cortland St                 14 
+13-Sep-14 Westminster MO              34 Crown                       13 
+13-Sep-14 St Mary KS                   7 Culver-Stockton             57 
+13-Sep-14 Belhaven                    27 Cumberlands KY              31 
+13-Sep-14 Valley City St              34 Dakota St                   10 
+13-Sep-14 Briar Cliff                 16 Dakota Wesleyan             27 
+13-Sep-14 Centre                      34 Defiance                     7 
+13-Sep-14 Colgate                     25 Delaware                    28 
+13-Sep-14 Towson                      21 Delaware St                  7 
+13-Sep-14 Kansas                       3 Duke                        41 
+13-Sep-14 Dayton                      13 Duquesne                    33 
+13-Sep-14 Capital                     54 Earlham                     20 
+13-Sep-14 Southern Arkansas           40 East Central OK             47 
+13-Sep-14 Slippery Rock               56 East Stroudsburg            24 
+13-Sep-14 Austin                      27 East Texas Baptist          43 
+13-Sep-14 Morehead St                 13 Eastern Kentucky            55 
+13-Sep-14 Adams St                    14 Eastern New Mexico          42 
+13-Sep-14 Southern Oregon             35 Eastern Oregon              31 
+13-Sep-14 Tusculum                    10 Elizabeth City St           18 
+13-Sep-14 North Carolina A&T          17 Elon                        12 
+13-Sep-14 Hobart                      28 Endicott                    18 
+13-Sep-14 Northwestern MN             48 Eureka                      16 
+13-Sep-14 Southwestern KS             14 Evangel                     45 
+13-Sep-14 Union KY                    34 Faulkner                    61 
+13-Sep-14 McKendree                   28 Findlay                     37 
+13-Sep-14 Kentucky                    30 Florida                     36 
+13-Sep-14 Tulsa                       21 Florida Atlantic            50 
+13-Sep-14 Pittsburgh                  42 Florida Int'l               25 
+13-Sep-14 Ave Maria                    6 Florida Tech                42 
+13-Sep-14 Rhode Island                 7 Fordham                     54 
+13-Sep-14 Rowan                       31 Framingham St               21 
+13-Sep-14 UW-Whitewater               42 Franklin                    13 
+13-Sep-14 Nebraska                    55 Fresno St                   19 
+13-Sep-14 VA-Lynchburg                 0 Gardner-Webb                34 
+13-Sep-14 Grove City                   0 Geneva                      42 
+13-Sep-14 La Verne                    47 George Fox                  33 
+13-Sep-14 Bethel TN                    7 Georgetown KY               63 
+13-Sep-14 Air Force                   48 Georgia St                  38 
+13-Sep-14 Georgia Southern            38 Georgia Tech                42 
+13-Sep-14 West Liberty                27 Glenville St                24 
+13-Sep-14 Bethany KS                  29 Graceland                   35 
+13-Sep-14 Ohio Dominican              28 Grand Valley St             24 
+13-Sep-14 Methodist                   20 Guilford                    52 
+13-Sep-14 Macalester                  13 Hamline                     23 
+13-Sep-14 Christopher Newport         30 Hampden-Sydney              35 
+13-Sep-14 Thomas More                 45 Hanover                     16 
+13-Sep-14 Texas Lutheran              37 Hardin-Simmons              14 
+13-Sep-14 Morrisville St              43 Hartwick                    40 
+13-Sep-14 Concordia NE                43 Hastings                    48 
+13-Sep-14 Northern Iowa               24 Hawai`i                     27 
+13-Sep-14 Bacone                      14 Hendrix                     24 
+13-Sep-14 Denison                     26 Hiram                       37 
+13-Sep-14 Central Conn St              7 Holy Cross                  20 
+13-Sep-14 Augustana IL                27 Hope                        37 
+13-Sep-14 Morehouse                   17 Howard                      35 
+13-Sep-14 Azusa Pacific               10 Humboldt St                 30 
+13-Sep-14 Birmingham-Southern         12 Huntingdon AL               29 
+13-Sep-14 Western Michigan            45 Idaho                       33 
+13-Sep-14 Chadron St                  34 Idaho St                    39 
+13-Sep-14 Eastern Illinois            15 Illinois St                 34 
+13-Sep-14 Iowa St                     20 Iowa                        17 
+13-Sep-14 St Scholastica              41 Iowa Wesleyan               14 
+13-Sep-14 San Diego                   18 Jacksonville FL             35 
+13-Sep-14 St Francis PA               22 James Madison               38 
+13-Sep-14 Kentucky St                  6 Johnson C. Smith            13 
+13-Sep-14 Dickinson                   35 Juniata                     38 
+13-Sep-14 Wheaton                     26 Kalamazoo                   12 
+13-Sep-14 Oberlin                     47 Kenyon                      28 
+13-Sep-14 Stevenson                    7 King's PA                    0 
+13-Sep-14 Indiana PA                   7 Kutztown                    44 
+13-Sep-14 Robert Morris PA             3 Lafayette                   50 
+13-Sep-14 Berry                       27 LaGrange                    28 
+13-Sep-14 Hillsdale                   48 Lake Erie                   41 
+13-Sep-14 Gustavus Adolphus           42 Lake Forest                  9 
+13-Sep-14 Texas College                0 Lamar                       73 
+13-Sep-14 Maranatha Baptist            0 Lawrence                    59 
+13-Sep-14 Widener                     45 Lebanon Valley               3 
+13-Sep-14 Brevard                     31 Liberty                     56 
+13-Sep-14 SW Baptist                  42 Lincoln MO                  21 
+13-Sep-14 North Carolina Wesleyan     27 Lincoln PA                   0 
+13-Sep-14 Kentucky Wesleyan           10 Lindsey Wilson              62 
+13-Sep-14 New Haven                   33 LIU Post                    38 
+13-Sep-14 Seton Hill                  27 Lock Haven                  16 
+13-Sep-14 Louisiana-Monroe             0 LSU                         31 
+13-Sep-14 Martin Luther               36 MacMurray                   42 
+13-Sep-14 Michigan Tech               37 Malone                       6 
+13-Sep-14 Buffalo St                  60 Manchester                  32 
+13-Sep-14 Georgetown DC               27 Marist                       7 
+13-Sep-14 Shorter                     27 Mars Hill                   20 
+13-Sep-14 Ohio U.                     14 Marshall                    44 
+13-Sep-14 Redlands                     0 Mary Hardin-Baylor          36 
+13-Sep-14 West Virginia               40 Maryland                    37 
+13-Sep-14 Emory & Henry               14 Maryville                   13 
+13-Sep-14 Prairie View A&M            16 McNeese St                  48 
+13-Sep-14 Arkansas St                 20 Miami FL                    41 
+13-Sep-14 Miami OH                    10 Michigan                    34 
+13-Sep-14 McPherson                   28 MidAmerica Nazarene         34 
+13-Sep-14 Western Kentucky            47 Middle Tennessee St         50 
+13-Sep-14 Dordt                        0 Midland U.                  35 
+13-Sep-14 Missouri S&T                23 Midwestern St               40 
+13-Sep-14 West Georgia                26 Miles                        0 
+13-Sep-14 Clarion                     55 Millersville                16 
+13-Sep-14 Minn St-Mankato             69 Minn St-Moorhead            13 
+13-Sep-14 Greenville                  44 Minnesota-Morris             9 
+13-Sep-14 Upper Iowa                  49 Minot St                     3 
+13-Sep-14 Louisiana-Lafayette         15 Mississippi                 56 
+13-Sep-14 North Alabama               58 Mississippi College          0 
+13-Sep-14 Central Florida             10 Missouri                    38 
+13-Sep-14 North Dakota                 0 Missouri St                 38 
+13-Sep-14 Tabor                       27 Missouri Valley             17 
+13-Sep-14 Becker                      14 MIT                         38 
+13-Sep-14 Wagner                      16 Monmouth NJ                 21 
+13-Sep-14 South Dakota                20 Montana                     28 
+13-Sep-14 Central Arkansas            33 Montana St                  43 
+13-Sep-14 Rocky Mountain              32 Montana St-Northern         18 
+13-Sep-14 McDaniel                     7 Moravian                    28 
+13-Sep-14 Bowie St                     3 Morgan St                   28 
+13-Sep-14 Millsaps                    30 Mt St Joseph                22 
+13-Sep-14 Franklin & Marshall          7 Muhlenberg                  42 
+13-Sep-14 Morningside                 83 Nebraska Wesleyan           19 
+13-Sep-14 Lehigh                      27 New Hampshire               45 
+13-Sep-14 Limestone                   20 Newberry                    70 
+13-Sep-14 Henderson St                27 Nicholls St                 10 
+13-Sep-14 UNC-Charlotte               40 North Carolina Central      28 
+13-Sep-14 Incarnate Word               0 North Dakota St             58 
+13-Sep-14 Fort Hays St                48 Northeastern St OK          13 
+13-Sep-14 New Mexico Highlands        23 Northern Arizona            62 
+13-Sep-14 Houston Baptist             20 Northern Colorado           28 
+13-Sep-14 Doane                       10 Northwestern IA             17 
+13-Sep-14 Ferris St                   27 Northwood                    7 
+13-Sep-14 Urbana                      13 Notre Dame OH               28 
+13-Sep-14 Harding                     45 NW Oklahoma St               7 
+13-Sep-14 Puget Sound                 32 Occidental                  34 
+13-Sep-14 Kent St                      0 Ohio State                  66 
+13-Sep-14 Fort Lewis                  45 OK Panhandle St             38 
+13-Sep-14 Tennessee                   10 Oklahoma                    34 
+13-Sep-14 Missouri Baptist             7 Oklahoma Baptist            59 
+13-Sep-14 Texas-San Antonio           13 Oklahoma St                 43 
+13-Sep-14 Eastern Michigan             3 Old Dominion                17 
+13-Sep-14 Elmhurst                    33 Olivet                      27 
+13-Sep-14 Robert Morris IL            17 Olivet Nazarene             16 
+13-Sep-14 Wyoming                     14 Oregon                      48 
+13-Sep-14 Southern Nazarene            7 Ouachita Baptist            28 
+13-Sep-14 Merrimack                   75 Pace                         2 
+13-Sep-14 Cal Lutheran                28 Pacific Lutheran            35 
+13-Sep-14 Livingstone                 48 Paine                       45 
+13-Sep-14 Friends                     21 Peru St                     23 
+13-Sep-14 Edward Waters               49 Pikeville                   48 
+13-Sep-14 Mount Ida                   24 Plymouth St                 30 
+13-Sep-14 Furman                       7 Presbyterian                10 
+13-Sep-14 Haskell                      0 Presentation                40 
+13-Sep-14 Notre Dame                  30 Purdue                      14 Indianapolis IN
+13-Sep-14 Northern Michigan           31 Quincy                      14 
+13-Sep-14 Averett                     16 Randolph-Macon              48 
+13-Sep-14 Kentucky Christian          31 Reinhardt                   21 
+13-Sep-14 Washington U.               22 Rhodes                      46 
+13-Sep-14 Hampton                     17 Richmond                    42 
+13-Sep-14 Rockford                    14 Ripon                       24 
+13-Sep-14 Illinois College            68 Rose-Hulman                 74 
+13-Sep-14 Alfred                      34 RPI                         31 
+13-Sep-14 Penn State                  13 Rutgers                     10 
+13-Sep-14 Weber St                    31 Sacramento St               42 
+13-Sep-14 Assumption                  14 Sacred Heart                44 
+13-Sep-14 Tiffin                      28 Saginaw Valley St           17 
+13-Sep-14 Wesley                      43 Salisbury                    5 
+13-Sep-14 Montclair St                 7 Salve Regina                 6 
+13-Sep-14 Colorado St-Pueblo          47 Sam Houston St              21 
+13-Sep-14 Fort Valley St              42 Savannah St                 28 
+13-Sep-14 Arkansas-Monticello         49 SE Oklahoma St              52 
+13-Sep-14 Washington and Lee          19 Sewanee                     21 
+13-Sep-14 Frostburg St                20 Shenandoah                  10 
+13-Sep-14 Fairmont St                  0 Shepherd                    56 
+13-Sep-14 Edinboro                    21 Shippensburg                47 
+13-Sep-14 St Joseph's IN              27 Siena Heights                7 
+13-Sep-14 Western Oregon              38 Simon Fraser                14 
+13-Sep-14 UW-River Falls               6 Simpson                     22 
+13-Sep-14 Mississippi St              35 South Alabama                3 
+13-Sep-14 Georgia                     35 South Carolina              38 
+13-Sep-14 North Carolina St           49 South Florida               17 
+13-Sep-14 Warner U.                    7 Southeastern U.             31 
+13-Sep-14 St Anselm                   23 Southern Conn St            20 
+13-Sep-14 SE Missouri St              23 Southern Illinois           50 
+13-Sep-14 Northwestern St             51 Southern U.                 27 
+13-Sep-14 South Dakota St             26 Southern Utah                6 
+13-Sep-14 Sul Ross St                 20 Southwestern TX             27 
+13-Sep-14 Wingate                     30 St Augustine's               0 
+13-Sep-14 Wayne St NE                 20 St Cloud St                 43 
+13-Sep-14 Lindenwood-Belleville        7 St Francis IL               40 
+13-Sep-14 William Penn                28 St Francis IN               27 
+13-Sep-14 Norwich                     10 St Lawrence                  7 
+13-Sep-14 North Central               51 St Norbert                  17 
+13-Sep-14 Luther                      20 St Olaf                      3 
+13-Sep-14 UW-La Crosse                 0 St Thomas                   46 
+13-Sep-14 Indianapolis                14 St Xavier                   19 
+13-Sep-14 Army                         0 Stanford                    35 
+13-Sep-14 TAMU-Commerce               17 Stephen F. Austin           38 
+13-Sep-14 Mercer                      49 Stetson                      0 
+13-Sep-14 American Int'l               3 Stony Brook                 20 
+13-Sep-14 Johns Hopkins               27 Susquehanna                 20 
+13-Sep-14 Minnesota-Crookston         31 SW Minnesota St             56 
+13-Sep-14 Arkansas Tech               23 SW Oklahoma St              27 
+13-Sep-14 Colorado Mesa               14 TAMU-Kingsville             17 
+13-Sep-14 St Ambrose                  13 Taylor                      23 
+13-Sep-14 Minnesota                    7 TCU                         30 
+13-Sep-14 Jackson St                   7 Tennessee St                35 Memphis TN
+13-Sep-14 UCLA                        20 Texas                       17 Arlington TX
+13-Sep-14 Rice                        10 Texas A&M                   38 
+13-Sep-14 Navy                        35 Texas St-San Marcos         21 
+13-Sep-14 Arkansas                    49 Texas Tech                  28 
+13-Sep-14 Bethany WV                  45 Thiel                       24 
+13-Sep-14 Millikin                    14 Trine                       28 
+13-Sep-14 Mayville St                 47 Trinity Bible               34 
+13-Sep-14 Wisconsin Lutheran          22 Trinity Int'l               49 
+13-Sep-14 Abilene Christian           38 Troy                        35 
+13-Sep-14 Langston                    12 Truman St                   17 
+13-Sep-14 SE Louisiana                20 Tulane                      35 
+13-Sep-14 Albany St GA                12 Tuskegee                    20 
+13-Sep-14 Utica                       23 Union NY                    16 
+13-Sep-14 Northern Illinois           48 UNLV                        34 
+13-Sep-14 Gettysburg                  14 Ursinus                     31 
+13-Sep-14 Wake Forest                 24 Utah St                     36 
+13-Sep-14 New Mexico St               24 UTEP                        42 
+13-Sep-14 St John's MN                31 UW-Eau Claire                7 
+13-Sep-14 Marian IN                   24 UW-Oshkosh                  20 
+13-Sep-14 Dubuque                     21 UW-Platteville              26 
+13-Sep-14 Loras                       17 UW-Stout                    21 
+13-Sep-14 Winston-Salem St            17 Valdosta St                 22 Powder Springs GA
+13-Sep-14 Massachusetts               31 Vanderbilt                  34 
+13-Sep-14 Louisville                  21 Virginia                    23 
+13-Sep-14 Lenoir-Rhyne                33 Virginia St                  6 
+13-Sep-14 East Carolina               28 Virginia Tech               21 
+13-Sep-14 Charleston WV               38 Virginia Union              21 
+13-Sep-14 WV Wesleyan                 23 Virginia-Wise                7 
+13-Sep-14 Davidson                    24 VMI                         52 
+13-Sep-14 Dickinson St                27 Waldorf                     23 
+13-Sep-14 Bethel MN                   14 Wartburg                    31 
+13-Sep-14 Illinois                    19 Washington                  44 
+13-Sep-14 Portland St                 21 Washington St               59 
+13-Sep-14 Howard Payne                27 Wayland Baptist             21 
+13-Sep-14 Carson-Newman               31 Wayne St MI                 41 
+13-Sep-14 St Vincent                  24 Waynesburg                  35 
+13-Sep-14 Shaw                         6 West Alabama                30 
+13-Sep-14 Mercyhurst                  14 West Chester                38 
+13-Sep-14 Tarleton St                 31 West Texas A&M              27 
+13-Sep-14 Concord                     55 West Virginia St             7 
+13-Sep-14 Catawba                     17 Western Carolina            35 
+13-Sep-14 Nichols                      0 Western Conn St             58 
+13-Sep-14 Drake                       13 Western Illinois            38 
+13-Sep-14 Westfield St                14 Western New England         17 
+13-Sep-14 Wash & Jeff                 56 Westminster PA              21 
+13-Sep-14 Whitworth                   30 Whittier                    17 
+13-Sep-14 Misericordia                 7 Wilkes                      41 
+13-Sep-14 Trinity TX                  10 Willamette                  34 
+13-Sep-14 Norfolk St                  14 William & Mary              29 
+13-Sep-14 Bridgewater St MA           29 William Paterson            20 
+13-Sep-14 Mary                        34 Winona St                   42 
+13-Sep-14 North Greenville            27 Wofford                     42 
+13-Sep-14 Butler                      13 Youngstown St               44 
+14-Sep-14 Fayetteville St             14 UNC-Pembroke                16
+18-Sep-14 Arkansas-Pine Bluff          7 Alabama St                  42
+18-Sep-14 SE Oklahoma St              17 Henderson St                60
+18-Sep-14 Auburn                      20 Kansas St                   14
+18-Sep-14 Christopher Newport         31 North Carolina Wesleyan     28
+19-Sep-14 Framingham St               29 Fitchburg St                26
+19-Sep-14 Holy Cross                  18 Harvard                     41
+19-Sep-14 Connecticut                 14 South Florida               17
+20-Sep-14 Incarnate Word               0 Abilene Christian           21
+20-Sep-14 Colorado Mesa               28 Adams St                    20
+20-Sep-14 Marshall                    48 Akron                       17
+20-Sep-14 Florida                     21 Alabama                     42
+20-Sep-14 Stonehill                    5 American Int'l              33
+20-Sep-14 Bates                        6 Amherst                     14
+20-Sep-14 Franklin                    62 Anderson                    14
+20-Sep-14 McMurry                     14 Angelo St                   45
+20-Sep-14 California                  45 Arizona                     49
+20-Sep-14 Northern Illinois           14 Arkansas                    52
+20-Sep-14 Utah St                     14 Arkansas St                 21
+20-Sep-14 Southern Nazarene           14 Arkansas Tech               34
+20-Sep-14 Loras                       17 Augustana IL                34
+20-Sep-14 Olivet                      49 Aurora                      20
+20-Sep-14 Occidental                  12 Austin                      21
+20-Sep-14 Maryville                   40 Averett                     17
+20-Sep-14 Culver-Stockton             41 Avila                       54
+20-Sep-14 Simon Fraser                24 Azusa Pacific               32
+20-Sep-14 Ohio Northern               37 Baldwin Wallace             35
+20-Sep-14 Adrian                      23 Benedictine IL               6
+20-Sep-14 McPherson                    0 Bethel KS                   13
+20-Sep-14 St Olaf                      0 Bethel MN                   40
+20-Sep-14 Stetson                     37 Birmingham-Southern         19
+20-Sep-14 Fort Lewis                  14 Black Hills St              40
+20-Sep-14 Louisiana-Lafayette          9 Boise St                    34
+20-Sep-14 Maine                       10 Boston College              40
+20-Sep-14 Carson-Newman               55 Brevard                     42
+20-Sep-14 Nebraska Wesleyan           38 Briar Cliff                 28
+20-Sep-14 Virginia                    33 Brigham Young               41
+20-Sep-14 St John Fisher              36 Brockport St                20
+20-Sep-14 Norfolk St                   7 Buffalo                     36
+20-Sep-14 Alfred                      29 Buffalo St                  21
+20-Sep-14 Taylor                       3 Butler                      38
+20-Sep-14 Willamette                  42 Cal Lutheran                24
+20-Sep-14 Portland St                 14 Cal Poly SLO                42
+20-Sep-14 Bethel TN                    3 Campbellsville              44
+20-Sep-14 Wilmington                  21 Capital                     34
+20-Sep-14 Augsburg                    42 Carleton                    14
+20-Sep-14 RPI                         41 Castleton St                13
+20-Sep-14 Apprentice                  24 Catholic                    31
+20-Sep-14 Missouri St                 33 Central Arkansas            31
+20-Sep-14 Bethune-Cookman              7 Central Florida             41
+20-Sep-14 Maranatha Baptist           12 Central IA                  65
+20-Sep-14 Benedictine KS              23 Central Methodist           17
+20-Sep-14 Morehouse                   43 Central St OH                9 Chicago IL
+20-Sep-14 Colorado Mines              33 Chadron St                  18
+20-Sep-14 The Citadel                 18 Charleston Southern         20
+20-Sep-14 Virginia-Wise               14 Charleston WV               30
+20-Sep-14 Clarion                     27 Cheyney                      6
+20-Sep-14 Miami OH                    24 Cincinnati                  31
+20-Sep-14 UW-Stevens Point            37 Coe                         21
+20-Sep-14 Cornell                     12 Colgate                     27
+20-Sep-14 Hawai`i                     12 Colorado                    21
+20-Sep-14 Fordham                     49 Columbia                     7
+20-Sep-14 Bowie St                    34 Concord                     37
+20-Sep-14 Southeastern U.             59 Concordia AL                16
+20-Sep-14 Alma                        24 Concordia IL                21
+20-Sep-14 Midland U.                  28 Concordia NE                35
+20-Sep-14 Albion                      57 Concordia WI                20
+20-Sep-14 Belhaven                     9 Cumberland TN               41
+20-Sep-14 Hobart                      43 Curry                       13
+20-Sep-14 Presentation                40 Dakota St                   37
+20-Sep-14 Northwestern IA             35 Dakota Wesleyan              7
+20-Sep-14 Central Conn St             25 Dartmouth                   35
+20-Sep-14 Morehead St                 40 Davidson                    32
+20-Sep-14 Robert Morris PA             7 Dayton                      31
+20-Sep-14 Mt St Joseph                24 Defiance                    21
+20-Sep-14 Wilkes                      35 Delaware Valley             54
+20-Sep-14 Wabash                      31 Denison                     12
+20-Sep-14 Susquehanna                 28 Dickinson                   29
+20-Sep-14 Valley City St              33 Dickinson St                21
+20-Sep-14 Humboldt St                 50 Dixie St                     3
+20-Sep-14 Hastings                    24 Doane                       28
+20-Sep-14 Marist                       6 Drake                       21
+20-Sep-14 Pacific OR                  10 Dubuque                     16
+20-Sep-14 Tulane                      13 Duke                        47
+20-Sep-14 Monmouth NJ                 21 Duquesne                    30
+20-Sep-14 North Carolina              41 East Carolina               70
+20-Sep-14 Southwestern TX             34 East Texas Baptist          58
+20-Sep-14 Austin Peay                  7 Eastern Illinois            63
+20-Sep-14 East Stroudsburg            47 Edinboro                    34
+20-Sep-14 Benedict                    20 Elizabeth City St           19 Rocky Mount NC
+20-Sep-14 Chicago                     29 Elmhurst                    17
+20-Sep-14 UNC-Charlotte               13 Elon                        20
+20-Sep-14 Central Oklahoma            24 Emporia St                  14
+20-Sep-14 Baker                       24 Evangel                     14
+20-Sep-14 Glenville St                36 Fairmont St                 40
+20-Sep-14 Virginia Union              25 Fayetteville St             13
+20-Sep-14 Grand Valley St             17 Ferris St                   42
+20-Sep-14 Coastal Carolina            48 Florida A&M                  3
+20-Sep-14 Louisville                  34 Florida Int'l                3
+20-Sep-14 Clemson                     17 Florida St                  23
+20-Sep-14 Lindenwood                   7 Fort Hays St                20
+20-Sep-14 Clark Atlanta               18 Fort Valley St              19
+20-Sep-14 Ursinus                     31 Franklin & Marshall         24
+20-Sep-14 Southern Utah               16 Fresno St                   56
+20-Sep-14 Sterling                    33 Friends                     34
+20-Sep-14 Kutztown                    28 Gannon                      37
+20-Sep-14 Wofford                     36 Gardner-Webb                43
+20-Sep-14 Brown                        3 Georgetown DC               17
+20-Sep-14 Troy                         0 Georgia                     66
+20-Sep-14 Juniata                     17 Gettysburg                  31
+20-Sep-14 Marian IN                   31 Grand View                  18
+20-Sep-14 LaGrange                    35 Greensboro                  37
+20-Sep-14 Eureka                      27 Greenville                  30
+20-Sep-14 Hamline                     19 Gustavus Adolphus           48
+20-Sep-14 Coast Guard                  0 Hampden-Sydney              56
+20-Sep-14 Miles                       30 Hampton                     34
+20-Sep-14 Rose-Hulman                 48 Hanover                     42
+20-Sep-14 Mayville St                 47 Haskell                     20
+20-Sep-14 Northern Michigan           10 Hillsdale                   13
+20-Sep-14 Allegheny                   24 Hiram                       21
+20-Sep-14 UNLV                        14 Houston                     47
+20-Sep-14 SW Assem of God             25 Howard Payne                38
+20-Sep-14 Alfred St                   28 Husson                      34
+20-Sep-14 Texas St-San Marcos         35 Illinois                    42
+20-Sep-14 Hartwick                     7 Ithaca                      42
+20-Sep-14 Grambling St                40 Jackson St                  35
+20-Sep-14 Pennsylvania                31 Jacksonville FL             34
+20-Sep-14 West Alabama                34 Jacksonville St             45
+20-Sep-14 Waldorf                     20 Jamestown                   40
+20-Sep-14 Heidelberg                  16 John Carroll                43
+20-Sep-14 Moravian                    14 Johns Hopkins               33
+20-Sep-14 Central Michigan            10 Kansas                      24
+20-Sep-14 Southwestern KS             37 Kansas Wesleyan             42
+20-Sep-14 Endicott                    41 Kean                        28
+20-Sep-14 Bluefield                   16 Kentucky Christian          43
+20-Sep-14 Virginia St                 16 Kentucky St                 13
+20-Sep-14 Whitworth                   50 La Verne                    48
+20-Sep-14 Walsh                       36 Lake Erie                   47
+20-Sep-14 Carroll WI                  28 Lake Forest                  7
+20-Sep-14 Hope                        25 Lakeland                    22
+20-Sep-14 Mississippi College         10 Lamar                       55
+20-Sep-14 Bryant                      21 Liberty                     38
+20-Sep-14 Quincy                      13 Lincoln MO                  42
+20-Sep-14 Georgetown KY               63 Lindenwood-Belleville       14
+20-Sep-14 VA-Lynchburg                12 Livingstone                 60
+20-Sep-14 Indiana PA                  21 Lock Haven                  16
+20-Sep-14 Texas Lutheran              38 Louisiana College           32
+20-Sep-14 Northwestern St             30 Louisiana Tech              27
+20-Sep-14 Mississippi St              34 LSU                         29
+20-Sep-14 Grinnell                    21 Luther                      49
+20-Sep-14 King's PA                   13 Lycoming                    28
+20-Sep-14 Westminster MO              27 MacMurray                   21
+20-Sep-14 Wayne St MI                 39 Malone                      15
+20-Sep-14 Earlham                      7 Manchester                  55
+20-Sep-14 Concordia-St Paul           13 Mary                        20
+20-Sep-14 Maine Maritime              20 Mass Maritime               26
+20-Sep-14 Muhlenberg                  59 McDaniel                    10
+20-Sep-14 Middle Tennessee St         17 Memphis                     36
+20-Sep-14 Ave Maria                   21 Mercer                      42
+20-Sep-14 SUNY-Maritime               17 Merchant Marine             34
+20-Sep-14 Bloomsburg                  38 Mercyhurst                  22
+20-Sep-14 LIU Post                    17 Merrimack                   19
+20-Sep-14 Huntingdon AL               34 Methodist                   41
+20-Sep-14 Utah                        26 Michigan                    10
+20-Sep-14 Eastern Michigan            14 Michigan St                 73
+20-Sep-14 Saginaw Valley St           20 Michigan Tech               26
+20-Sep-14 Graceland                   20 MidAmerica Nazarene         34
+20-Sep-14 Wesleyan                    22 Middlebury                  14
+20-Sep-14 Eastern New Mexico          17 Midwestern St               42 Arlington TX
+20-Sep-14 Slippery Rock               46 Millersville                17
+20-Sep-14 Minot St                     0 Minn St-Mankato             58
+20-Sep-14 San José St                  7 Minnesota                   24
+20-Sep-14 Winona St                   33 Minnesota-Crookston          7
+20-Sep-14 SW Minnesota St              7 Minnesota-Duluth            38
+20-Sep-14 Iowa Wesleyan               13 Minnesota-Morris             7
+20-Sep-14 FDU-Florham                  0 Misericordia                35
+20-Sep-14 Alcorn St                   52 Mississippi Valley St        9
+20-Sep-14 Indiana                     31 Missouri                    27
+20-Sep-14 William Penn                51 Missouri Baptist            20
+20-Sep-14 Truman St                   27 Missouri S&T                16
+20-Sep-14 Peru St                      0 Missouri Valley             27
+20-Sep-14 Northeastern St OK           0 Missouri Western            30
+20-Sep-14 Eastern Washington          52 Montana St                  51
+20-Sep-14 Eastern Oregon              39 Montana Tech                13
+20-Sep-14 Montana St-Northern         30 Montana-Western             50
+20-Sep-14 Lincoln PA                  14 Montclair St                27
+20-Sep-14 Howard                      35 Morgan St                   38 East Rutherford NJ
+20-Sep-14 Dordt                        2 Morningside                 72
+20-Sep-14 Mount Union                 62 Muskingum                    6
+20-Sep-14 Rutgers                     31 Navy                        24
+20-Sep-14 Miami FL                    31 Nebraska                    41
+20-Sep-14 Missouri Southern           34 Nebraska-Kearney            17
+20-Sep-14 Assumption                  24 New Haven                   20
+20-Sep-14 UW-Whitewater               48 New Jersey                   0
+20-Sep-14 Western New Mexico          38 New Mexico Highlands        59
+20-Sep-14 New Mexico                  38 New Mexico St               35
+20-Sep-14 Catawba                     37 Newberry                    34
+20-Sep-14 Becker                       3 Nichols                     10
+20-Sep-14 Langston                     7 North Alabama               56
+20-Sep-14 Chowan                       0 North Carolina A&T          59
+20-Sep-14 Presbyterian                 0 North Carolina St           42
+20-Sep-14 UW-Platteville               7 North Central               28
+20-Sep-14 Stony Brook                  3 North Dakota                13
+20-Sep-14 Montana                     10 North Dakota St             22
+20-Sep-14 Nicholls St                  3 North Texas                 77
+20-Sep-14 Northern Colorado            7 Northern Iowa               46
+20-Sep-14 Augustana SD                48 Northern St SD              17
+20-Sep-14 Western Illinois             7 Northwestern                24
+20-Sep-14 Martin Luther               27 Northwestern MN             41
+20-Sep-14 McKendree                   27 Northwood                   32
+20-Sep-14 WPI                          7 Norwich                     10
+20-Sep-14 Central Missouri            15 NW Missouri St              37
+20-Sep-14 Arkansas-Monticello         28 NW Oklahoma St              34
+20-Sep-14 Wooster                     63 Oberlin                     10
+20-Sep-14 Ashland                     20 Ohio Dominican              38
+20-Sep-14 Idaho                       24 Ohio U.                     36
+20-Sep-14 Kenyon                      25 Ohio Wesleyan               35
+20-Sep-14 Oklahoma Baptist            21 OK Panhandle St             49
+20-Sep-14 Concordia MI                24 Olivet Nazarene             21
+20-Sep-14 San Diego St                 7 Oregon St                   28
+20-Sep-14 Bethany KS                  34 Ottawa                      24
+20-Sep-14 Marietta                     0 Otterbein                   20
+20-Sep-14 East Central OK             20 Ouachita Baptist            41
+20-Sep-14 Southern Conn St            32 Pace                        10
+20-Sep-14 Lane                        18 Paine                       16
+20-Sep-14 Massachusetts                7 Penn State                  48
+20-Sep-14 Lindsey Wilson              44 Pikeville                   14
+20-Sep-14 Iowa                        24 Pittsburgh                  20
+20-Sep-14 Rhodes                      42 Pomona-Pitzer               21
+20-Sep-14 Southern U.                 34 Prairie View A&M            24
+20-Sep-14 Southern Illinois           13 Purdue                      35
+20-Sep-14 Sewanee                     20 Randolph-Macon              34
+20-Sep-14 Linfield                    36 Redlands                     3
+20-Sep-14 Faulkner                    55 Reinhardt                   52
+20-Sep-14 Albany NY                   37 Rhode Island                20
+20-Sep-14 Old Dominion                45 Rice                        42
+20-Sep-14 New Hampshire               29 Richmond                    26
+20-Sep-14 St Xavier                   24 Robert Morris IL            27
+20-Sep-14 Gallaudet                    2 Rochester                   30
+20-Sep-14 Trine                       27 Rockford                     7
+20-Sep-14 Carroll MT                  33 Rocky Mountain               8
+20-Sep-14 Menlo                       14 Sacramento St               59
+20-Sep-14 Bucknell                    36 Sacred Heart                20
+20-Sep-14 VMI                         21 Samford                     63
+20-Sep-14 Princeton                   29 San Diego                   39
+20-Sep-14 SE Louisiana                23 SE Missouri St              24
+20-Sep-14 West Chester                45 Seton Hill                  10
+20-Sep-14 Ferrum                      20 Shenandoah                  45
+20-Sep-14 California PA               56 Shippensburg                34
+20-Sep-14 Illinois Wesleyan            3 Simpson                     13
+20-Sep-14 St Cloud St                  0 Sioux Falls                 36
+20-Sep-14 Texas A&M                   58 SMU                          6
+20-Sep-14 Georgia Southern            28 South Alabama                6
+20-Sep-14 Furman                       7 South Carolina St           17
+20-Sep-14 Northern Arizona            21 South Dakota                28
+20-Sep-14 UW-Oshkosh                   3 South Dakota St             41
+20-Sep-14 UW-River Falls              43 South Dakota Tech           28
+20-Sep-14 Appalachian St              20 Southern Miss               21
+20-Sep-14 Coll of Idaho               28 Southern Oregon             56
+20-Sep-14 Guilford                    35 Southern Virginia           27 Salem VA
+20-Sep-14 Mount Ida                   16 Springfield                 47
+20-Sep-14 St Francis IN               27 St Ambrose                  13
+20-Sep-14 Bentley                     34 St Anselm                   38
+20-Sep-14 Trinity Int'l               30 St Francis IL               44
+20-Sep-14 Concordia-Moorhead          23 St John's MN                14
+20-Sep-14 Alderson-Broaddus           17 St Joseph's IN              42
+20-Sep-14 Morrisville St              14 St Lawrence                 31
+20-Sep-14 Tabor                       35 St Mary KS                  14
+20-Sep-14 Crown                       14 St Scholastica              48
+20-Sep-14 Case Western Reserve        20 St Vincent                  23
+20-Sep-14 Weber St                    20 Stephen F. Austin           35
+20-Sep-14 Lebanon Valley              14 Stevenson                   20
+20-Sep-14 St Augustine's              19 Stillman                    37
+20-Sep-14 Trinity TX                  14 Sul Ross St                  6
+20-Sep-14 Indianapolis                48 SW Baptist                  14
+20-Sep-14 Southern Arkansas           24 SW Oklahoma St              27
+20-Sep-14 Maryland                    34 Syracuse                    20
+20-Sep-14 TAMU-Kingsville             20 TAMU-Commerce               55 Arlington TX
+20-Sep-14 Florida Tech                37 Tarleton St                 31 Arlington TX
+20-Sep-14 Delaware St                  0 Temple                      59
+20-Sep-14 Tennessee Tech               7 Tennessee St                10
+20-Sep-14 Eastern Kentucky            49 Tennessee-Martin            24
+20-Sep-14 Houston Baptist             72 Texas College                6
+20-Sep-14 Alabama A&M                 23 Texas Southern              45
+20-Sep-14 Thomas More                 66 Thiel                       27
+20-Sep-14 Findlay                     59 Tiffin                      22
+20-Sep-14 Ball St                     23 Toledo                      34
+20-Sep-14 North Carolina Central      20 Towson                      31
+20-Sep-14 Kentucky Wesleyan           49 Trinity Bible                7
+20-Sep-14 Colby                        7 Trinity CT                  32
+20-Sep-14 Hamilton                    17 Tufts                       24
+20-Sep-14 North Greenville            38 Tusculum                    35
+20-Sep-14 Westfield St                14 UMass-Dartmouth             13
+20-Sep-14 Shaw                        20 UNC-Pembroke                17 Wilmington NC
+20-Sep-14 Cumberlands KY              27 Union KY                    28
+20-Sep-14 Bemidji St                  30 Upper Iowa                  47
+20-Sep-14 Shepherd                    42 Urbana                       7
+20-Sep-14 Frostburg St                12 Utica                       20
+20-Sep-14 Mary Hardin-Baylor          41 UW-La Crosse                22
+20-Sep-14 Delta St                    49 Valdosta St                 32
+20-Sep-14 South Carolina              48 Vanderbilt                  34
+20-Sep-14 James Madison               31 Villanova                   49
+20-Sep-14 Georgia Tech                27 Virginia Tech               24
+20-Sep-14 Army                        21 Wake Forest                 24
+20-Sep-14 UW-Stout                    14 Wartburg                    45
+20-Sep-14 Carnegie Mellon             30 Wash & Jeff                 48
+20-Sep-14 Pittsburg St                42 Washburn                     0
+20-Sep-14 Georgia St                  14 Washington                  45
+20-Sep-14 Centre                      28 Washington and Lee          23
+20-Sep-14 Oregon                      38 Washington St               31	
+20-Sep-14 North Park                  19 Washington U.               24
+20-Sep-14 Hardin-Simmons              37 Wayland Baptist             23
+20-Sep-14 Minn St-Moorhead            40 Wayne St NE                 36
+20-Sep-14 Geneva                      38 Waynesburg                  44
+20-Sep-14 Rowan                        7 Wesley                      37
+20-Sep-14 Johnson C. Smith             0 West Georgia                49
+20-Sep-14 West Virginia St            16 West Liberty                38
+20-Sep-14 Shorter                     19 West Texas A&M              27 Arlington TX
+20-Sep-14 Oklahoma                    45 West Virginia               33
+20-Sep-14 Plymouth St                  7 Western Conn St             45
+20-Sep-14 Murray St                   14 Western Michigan            45
+20-Sep-14 Central Washington          34 Western Oregon              36
+20-Sep-14 Colorado St-Pueblo          26 Western St CO               23
+20-Sep-14 Bethany WV                  21 Westminster PA              14
+20-Sep-14 UW-Eau Claire                0 Wheaton                     17
+20-Sep-14 Lewis & Clark               10 Whittier                    23
+20-Sep-14 Albright                    23 Widener                     41
+20-Sep-14 Lafayette                   19 William & Mary              33
+20-Sep-14 Valparaiso                  39 William Jewell              30
+20-Sep-14 Salve Regina                32 William Paterson            36
+20-Sep-14 Bowdoin                      0 Williams                    36
+20-Sep-14 Lenoir-Rhyne                51 Wingate                     14
+20-Sep-14 Tuskegee                    13 Winston-Salem St            24
+20-Sep-14 Bowling Green               17 Wisconsin                   68
+20-Sep-14 Kalamazoo                   20 Wisconsin Lutheran          32
+20-Sep-14 DePauw                      17 Wittenberg                  34
+20-Sep-14 Bridgewater St MA           51 Worcester St                27
+20-Sep-14 Notre Dame OH               47 WV Wesleyan                 44
+20-Sep-14 Florida Atlantic            19 Wyoming                     20
+20-Sep-14 Lehigh                      43 Yale                        54
+20-Sep-14 St Francis PA               23 Youngstown St               52
+25-Sep-14 UCLA                        62 Arizona St                  27                  
+25-Sep-14 Appalachian St              14 Georgia Southern            34            
+25-Sep-14 Missouri Western            26 Lindenwood                   9          
+25-Sep-14 Texas Tech                  35 Oklahoma St                 45   
+26-Sep-14 Fitchburg St                21 Bridgewater St MA           17
+26-Sep-14 Fresno St                   35 New Mexico                  24
+26-Sep-14 Middle Tennessee St         41 Old Dominion                28
+27-Sep-14 Boise St                    14 Air Force                   28
+27-Sep-14 Texas Southern               3 Alabama St                  38
+27-Sep-14 Florida Int'l               34 Alabama-Birmingham          20
+27-Sep-14 Columbia                     7 Albany NY                   42
+27-Sep-14 Miles                        7 Albany St GA                14
+27-Sep-14 Stevenson                   13 Albright                     6
+27-Sep-14 Southern U.                 16 Alcorn St                   56
+27-Sep-14 Ithaca                      17 Alfred                       6
+27-Sep-14 Castleton St                36 Alfred St                   23
+27-Sep-14 West Texas A&M              58 Angelo St                   41
+27-Sep-14 Catholic                    54 Anna Maria                  25
+27-Sep-14 Bridgewater VA              32 Apprentice                  16
+27-Sep-14 Kentucky Wesleyan           33 Arizona Christian           14
+27-Sep-14 SW Oklahoma St              14 Arkansas-Monticello         33
+27-Sep-14 Jackson St                  33 Arkansas-Pine Bluff         30
+27-Sep-14 LIU Post                    28 Assumption                  27
+27-Sep-14 Louisiana Tech              17 Auburn                      45
+27-Sep-14 Gustavus Adolphus           55 Augsburg                    31
+27-Sep-14 Mary                         0 Augustana SD                52
+27-Sep-14 Howard Payne                16 Austin                      19
+27-Sep-14 Warner U.                   17 Ave Maria                    7
+27-Sep-14 Central Methodist           27 Avila                       14
+27-Sep-14 Louisiana College           37 Bacone                      13
+27-Sep-14 Graceland                    0 Baker                       41
+27-Sep-14 Campbellsville              31 Belhaven                    13
+27-Sep-14 Lake Forest                 24 Beloit                      27
+27-Sep-14 Minn St-Mankato             34 Bemidji St                  16
+27-Sep-14 Fort Valley St              33 Benedict                    30
+27-Sep-14 Missouri Valley             29 Benedictine KS              22
+27-Sep-14 New Haven                   38 Bentley                     35
+27-Sep-14 Rhodes                      12 Berry                        0
+27-Sep-14 St Mary KS                  43 Bethany KS                  19
+27-Sep-14 Waynesburg                  27 Bethany WV                  33
+27-Sep-14 Ottawa                      38 Bethel KS                   31
+27-Sep-14 Reinhardt                   63 Bethel TN                   35
+27-Sep-14 Florida Tech                33 Bethune-Cookman             34
+27-Sep-14 Shippensburg                30 Bloomsburg                  38
+27-Sep-14 Cumberland TN               59 Bluefield                   28
+27-Sep-14 Colorado St                 24 Boston College              21
+27-Sep-14 Amherst                     30 Bowdoin                      7
+27-Sep-14 Harvard                     22 Brown                       14
+27-Sep-14 Cornell                      7 Bucknell                    20
+27-Sep-14 Miami OH                    27 Buffalo                     35
+27-Sep-14 Salisbury                   28 Buffalo St                  32
+27-Sep-14 Jacksonville FL             35 Butler                       7
+27-Sep-14 Colorado                    56 California                  59
+27-Sep-14 Edinboro                    16 California PA               34
+27-Sep-14 Valparaiso                  24 Campbell                    34
+27-Sep-14 Bethel MN                   38 Carleton                     7
+27-Sep-14 Geneva                      21 Carnegie Mellon             22
+27-Sep-14 Monmouth IL                 27 Carroll WI                  32
+27-Sep-14 Lakeland                    14 Carthage                    21
+27-Sep-14 Thiel                       16 Case Western Reserve        23
+27-Sep-14 Carson-Newman               35 Catawba                     33
+27-Sep-14 Nicholls St                 18 Central Arkansas            52
+27-Sep-14 Rhode Island                14 Central Conn St             38
+27-Sep-14 Nebraska-Kearney            28 Central Missouri            45
+27-Sep-14 NW Missouri St              36 Central Oklahoma            13
+27-Sep-14 Simon Fraser                 7 Central Washington          63 Bothell WA
+27-Sep-14 Washington U.               20 Centre                      50
+27-Sep-14 Samford                     24 Chattanooga                 38
+27-Sep-14 Methodist                   48 Christopher Newport         51
+27-Sep-14 Gannon                      33 Clarion                      7
+27-Sep-14 West Georgia                42 Clark Atlanta                2
+27-Sep-14 North Carolina              35 Clemson                     50
+27-Sep-14 Elon                         3 Coastal Carolina            31
+27-Sep-14 Middlebury                  27 Colby                        7
+27-Sep-14 Georgetown DC                0 Colgate                     19
+27-Sep-14 Montana Tech                25 Coll of Idaho               41
+27-Sep-14 Chadron St                  24 Colorado Mesa               13
+27-Sep-14 Black Hills St              21 Colorado Mines              48
+27-Sep-14 West Liberty                24 Concord                     61
+27-Sep-14 St Ambrose                  32 Concordia MI                10
+27-Sep-14 Dakota St                   22 Concordia NE                21
+27-Sep-14 St Olaf                     14 Concordia-Moorhead          52
+27-Sep-14 Minnesota-Crookston          3 Concordia-St Paul           44
+27-Sep-14 Temple                      36 Connecticut                 10
+27-Sep-14 Northwestern MN             40 Crown                       14
+27-Sep-14 MidAmerica Nazarene         38 Culver-Stockton             13
+27-Sep-14 Pikeville                   22 Cumberlands KY               7
+27-Sep-14 Savannah St                 10 Delaware St                 35
+27-Sep-14 Central St OH                8 Delta St                    72
+27-Sep-14 Ohio Wesleyan               31 Denison                     34
+27-Sep-14 Kenyon                       0 DePauw                      24
+27-Sep-14 Azusa Pacific               42 Dixie St                    23
+27-Sep-14 Briar Cliff                 35 Dordt                       20
+27-Sep-14 Anderson                    45 Earlham                     15
+27-Sep-14 Henderson St                44 East Central OK             27
+27-Sep-14 Lock Haven                  21 East Stroudsburg            48
+27-Sep-14 Millsaps                    15 East Texas Baptist          68
+27-Sep-14 TAMU-Commerce               48 Eastern New Mexico          32
+27-Sep-14 Point U.                     7 Edward Waters               40
+27-Sep-14 Curry                        6 Endicott                    28
+27-Sep-14 Minnesota-Morris            10 Eureka                      17
+27-Sep-14 Lindsey Wilson              21 Faulkner                    28
+27-Sep-14 Widener                     30 FDU-Florham                  0
+27-Sep-14 North Carolina Wesleyan     34 Ferrum                      30
+27-Sep-14 Ashland                     45 Findlay                     23
+27-Sep-14 Texas-San Antonio           37 Florida Atlantic            41
+27-Sep-14 New Mexico Highlands        45 Fort Lewis                  10
+27-Sep-14 Western Conn St             31 Framingham St               48
+27-Sep-14 Bluffton                    21 Franklin                    54
+27-Sep-14 St John Fisher              48 Frostburg St                 7
+27-Sep-14 Western Carolina            35 Furman                      17
+27-Sep-14 Kentucky Christian          14 Georgetown KY               48
+27-Sep-14 Tennessee                   32 Georgia                     35
+27-Sep-14 Urbana                      28 Glenville St                31
+27-Sep-14 Lake Erie                   28 Grand Valley St             66
+27-Sep-14 Macalester                  21 Grinnell                    16
+27-Sep-14 South Carolina St           17 Hampton                     10
+27-Sep-14 Defiance                    31 Hanover                     28
+27-Sep-14 Langston                    29 Hardin-Simmons              30
+27-Sep-14 Dakota Wesleyan             34 Hastings                    31
+27-Sep-14 Ohio Northern               52 Heidelberg                  69
+27-Sep-14 Birmingham-Southern         31 Hendrix                     48
+27-Sep-14 Merchant Marine              7 Hobart                      42
+27-Sep-14 Fordham                     45 Holy Cross                  16
+27-Sep-14 Abilene Christian           59 Houston Baptist             14
+27-Sep-14 North Carolina A&T          38 Howard                      22
+27-Sep-14 Western Oregon              16 Humboldt St                 34
+27-Sep-14 South Alabama               34 Idaho                       10
+27-Sep-14 Sacramento St               24 Idaho St                    44
+27-Sep-14 Austin Peay                  6 Illinois St                 55
+27-Sep-14 SE Louisiana                63 Incarnate Word               7
+27-Sep-14 Maryland                    37 Indiana                     15
+27-Sep-14 Mercyhurst                   7 Indiana PA                  41
+27-Sep-14 Liberty                     19 Indiana St                  38
+27-Sep-14 Hillsdale                   19 Indianapolis                24
+27-Sep-14 Baylor                      49 Iowa St                     28
+27-Sep-14 MacMurray                   34 Iowa Wesleyan               40
+27-Sep-14 Delaware                    30 James Madison               23
+27-Sep-14 Valley City St              48 Jamestown                   17
+27-Sep-14 Baldwin Wallace              7 John Carroll                45
+27-Sep-14 Virginia Union              27 Johnson C. Smith            26
+27-Sep-14 Franklin & Marshall         35 Juniata                     33
+27-Sep-14 Texas                       23 Kansas                       0
+27-Sep-14 UTEP                        28 Kansas St                   58
+27-Sep-14 Vanderbilt                   7 Kentucky                    17
+27-Sep-14 Misericordia                29 King's PA                   36
+27-Sep-14 Lawrence                    14 Knox                        45
+27-Sep-14 Cheyney                      0 Kutztown                    74
+27-Sep-14 Wagner                      23 Lafayette                   35
+27-Sep-14 Averett                     29 LaGrange                    30
+27-Sep-14 Sam Houston St              42 Lamar                       10
+27-Sep-14 Delaware Valley             59 Lebanon Valley              41
+27-Sep-14 Monmouth NJ                 28 Lehigh                      21
+27-Sep-14 Tusculum                     9 Lenoir-Rhyne                47
+27-Sep-14 Alderson-Broaddus           67 Limestone                   14
+27-Sep-14 Missouri Baptist             6 Lindenwood-Belleville       44
+27-Sep-14 Bowie St                    33 Livingstone                 36
+27-Sep-14 Troy                        20 Louisiana-Monroe            22
+27-Sep-14 Wake Forest                 10 Louisville                  20
+27-Sep-14 New Mexico St                7 LSU                         63
+27-Sep-14 Western New England         80 Maine Maritime              16
+27-Sep-14 San Diego                   20 Marist                      16
+27-Sep-14 Newberry                    29 Mars Hill                   38
+27-Sep-14 Greenville                  23 Martin Luther               14
+27-Sep-14 Kean                         7 Mary Hardin-Baylor          73
+27-Sep-14 Huntingdon AL               35 Maryville                   21
+27-Sep-14 Worcester St                48 Mass Maritime               14
+27-Sep-14 Bowling Green               47 Massachusetts               42
+27-Sep-14 Dickinson St                43 Mayville St                  6
+27-Sep-14 Ursinus                     42 McDaniel                    13
+27-Sep-14 St Joseph's IN              35 McKendree                   33
+27-Sep-14 TAMU-Kingsville             21 McMurry                     27
+27-Sep-14 Arkansas Tech                7 McNeese St                  61
+27-Sep-14 Kansas Wesleyan             24 McPherson                   30
+27-Sep-14 Webber Int'l                20 Menlo                       17
+27-Sep-14 Duke                        10 Miami FL                    22
+27-Sep-14 Minnesota                   30 Michigan                    14
+27-Sep-14 Wyoming                     14 Michigan St                 56
+27-Sep-14 Doane                       40 Midland U.                  35
+27-Sep-14 Aurora                       9 Millikin                    30
+27-Sep-14 Sioux Falls                 73 Minn St-Moorhead            21
+27-Sep-14 Wayne St NE                 20 Minot St                    17
+27-Sep-14 Memphis                      3 Mississippi                 24
+27-Sep-14 Alabama A&M                 42 Mississippi Valley St       20
+27-Sep-14 Washburn                    21 Missouri Southern           42
+27-Sep-14 Salve Regina                26 MIT                         48
+27-Sep-14 Northern Colorado           13 Montana                     38
+27-Sep-14 North Dakota                18 Montana St                  29
+27-Sep-14 Southern Oregon             31 Montana St-Northern         24
+27-Sep-14 Dickinson                   14 Moravian                    21
+27-Sep-14 Cortland St                 31 Morrisville St              38
+27-Sep-14 Marietta                     7 Mount Union                 63
+27-Sep-14 Manchester                  17 Mt St Joseph                49
+27-Sep-14 Johns Hopkins               42 Muhlenberg                  26
+27-Sep-14 Jacksonville St             52 Murray St                   28
+27-Sep-14 Capital                     20 Muskingum                   36
+27-Sep-14 Western Kentucky            36 Navy                        27
+27-Sep-14 Illinois                    14 Nebraska                    45
+27-Sep-14 Northwestern IA              8 Nebraska Wesleyan            0
+27-Sep-14 Dartmouth                   19 New Hampshire               52
+27-Sep-14 Coast Guard                 28 Nichols                     12
+27-Sep-14 Morgan St                   14 Norfolk St                  15
+27-Sep-14 Valdosta St                 29 North Alabama               31
+27-Sep-14 Florida St                  56 North Carolina St           41
+27-Sep-14 Brevard                     31 North Greenville            41
+27-Sep-14 Emporia St                  42 Northeastern St OK          35
+27-Sep-14 Cal Poly SLO                35 Northern Arizona            38
+27-Sep-14 Tennessee Tech               7 Northern Iowa               50
+27-Sep-14 Michigan Tech               34 Northern Michigan           31
+27-Sep-14 Charleston WV               28 Notre Dame OH               14
+27-Sep-14 Wittenberg                  48 Oberlin                     10
+27-Sep-14 Cincinnati                  28 Ohio State                  50
+27-Sep-14 Eastern Illinois            19 Ohio U.                     34
+27-Sep-14 Southwestern TX              7 Oklahoma Baptist            51
+27-Sep-14 Morehouse                   20 Paine                       10
+27-Sep-14 Northwestern                29 Penn State                   6
+27-Sep-14 Villanova                   41 Pennsylvania                 7
+27-Sep-14 Evangel                     24 Peru St                     21
+27-Sep-14 Fort Hays St                 7 Pittsburg St                 6
+27-Sep-14 Akron                       21 Pittsburgh                  10
+27-Sep-14 UMass-Dartmouth             20 Plymouth St                  5
+27-Sep-14 Grambling St                26 Prairie View A&M            20 Dallas TX
+27-Sep-14 Davidson                    17 Princeton                   56
+27-Sep-14 Iowa                        24 Purdue                      10
+27-Sep-14 Haskell                      0 Quincy                      65
+27-Sep-14 Cornell IA                  43 Ripon                       24
+27-Sep-14 Eastern Oregon              27 Rocky Mountain              24
+27-Sep-14 WPI                          6 RPI                         27
+27-Sep-14 Tulane                       6 Rutgers                     31
+27-Sep-14 Ferris St                   47 Saginaw Valley St           13
+27-Sep-14 UNLV                        17 San Diego St                34
+27-Sep-14 Nevada                      21 San José St                 10
+27-Sep-14 Ouachita Baptist            35 SE Oklahoma St              29
+27-Sep-14 Emory & Henry               44 Sewanee                     27
+27-Sep-14 Lincoln PA                  27 Shaw                        38
+27-Sep-14 WV Wesleyan                  7 Shepherd                    56
+27-Sep-14 Olivet Nazarene              0 Siena Heights                7
+27-Sep-14 Seton Hill                  19 Slippery Rock               63
+27-Sep-14 TCU                         56 SMU                          0
+27-Sep-14 Missouri                    21 South Carolina              20
+27-Sep-14 NW Oklahoma St              21 Southern Arkansas           62
+27-Sep-14 Oregon St                   10 Southern Cal                35
+27-Sep-14 American Int'l              31 Southern Conn St            10
+27-Sep-14 Western Illinois            17 Southern Illinois           34
+27-Sep-14 Rice                        41 Southern Miss               23
+27-Sep-14 Harding                     58 Southern Nazarene            0
+27-Sep-14 Weber St                    28 Southern Utah               31
+27-Sep-14 Friends                     45 Southwestern KS              8
+27-Sep-14 Rochester                   27 Springfield                 63
+27-Sep-14 Pace                        26 St Anselm                   52
+27-Sep-14 Chowan                      31 St Augustine's              33
+27-Sep-14 Upper Iowa                  37 St Cloud St                 31
+27-Sep-14 Grand View                  21 St Francis IN                9
+27-Sep-14 VA-Lynchburg                 0 St Francis PA               80
+27-Sep-14 Union NY                    20 St Lawrence                 28
+27-Sep-14 Illinois College            27 St Norbert                  32
+27-Sep-14 St John's MN                24 St Thomas                   14
+27-Sep-14 Grove City                  14 St Vincent                  31
+27-Sep-14 St Francis IL               13 St Xavier                   28
+27-Sep-14 Kentucky St                 20 Stillman                    34
+27-Sep-14 Merrimack                   19 Stonehill                   33
+27-Sep-14 William & Mary              27 Stony Brook                 21
+27-Sep-14 Wayland Baptist             24 Sul Ross St                 27
+27-Sep-14 Gettysburg                  31 Susquehanna                 21
+27-Sep-14 Texas Lutheran              54 SW Assem of God             21
+27-Sep-14 Missouri S&T                28 SW Baptist                  21
+27-Sep-14 Northern St SD              46 SW Minnesota St             43
+27-Sep-14 Notre Dame                  31 Syracuse                    15 East Rutherford NJ
+27-Sep-14 Sterling                     3 Tabor                       19
+27-Sep-14 Midwestern St               27 Tarleton St                 23
+27-Sep-14 Florida A&M                  7 Tennessee St                27
+27-Sep-14 SE Missouri St              31 Tennessee-Martin            27
+27-Sep-14 Arkansas                    28 Texas A&M                   35 Arlington TX
+27-Sep-14 OK Panhandle St             70 Texas College               27
+27-Sep-14 Gardner-Webb                14 The Citadel                 37
+27-Sep-14 Westminster PA               6 Thomas More                 49
+27-Sep-14 Malone                      21 Tiffin                      23
+27-Sep-14 Central Michigan            28 Toledo                      42
+27-Sep-14 Maine                       27 Towson                      24
+27-Sep-14 Presentation                62 Trinity Bible               24
+27-Sep-14 Robert Morris IL            37 Trinity Int'l               10
+27-Sep-14 Pacific Lutheran            38 Trinity TX                  14
+27-Sep-14 Lincoln MO                  20 Truman St                   29
+27-Sep-14 Bates                       24 Tufts                       42
+27-Sep-14 Texas St-San Marcos         37 Tulsa                       34
+27-Sep-14 Lane                         3 Tuskegee                    44
+27-Sep-14 Eastern Washington          37 UC-Davis                    14
+27-Sep-14 Charleston Southern         47 UNC-Charlotte               41
+27-Sep-14 Washington St               28 Utah                        27
+27-Sep-14 Brockport St                28 Utica                       42
+27-Sep-14 North Central               27 UW-Stevens Point            34
+27-Sep-14 Kent St                     13 Virginia                    45
+27-Sep-14 Fayetteville St             14 Virginia St                 35
+27-Sep-14 Western Michigan            17 Virginia Tech               35
+27-Sep-14 Mercer                      27 VMI                         24
+27-Sep-14 Allegheny                    0 Wabash                      63
+27-Sep-14 Buena Vista                 55 Waldorf                     28
+27-Sep-14 Ohio Dominican              26 Walsh                        8
+27-Sep-14 Stanford                    20 Washington                  13
+27-Sep-14 Northwood                   27 Wayne St MI                 45
+27-Sep-14 Southern Virginia            7 Wesley                      47
+27-Sep-14 Hamilton                    21 Wesleyan                    43
+27-Sep-14 Concordia AL                 7 West Alabama                60
+27-Sep-14 Millersville                 7 West Chester                62
+27-Sep-14 Fairmont St                 24 West Virginia St            12
+27-Sep-14 Colorado St-Pueblo          45 Western New Mexico           7
+27-Sep-14 Adams St                    37 Western St CO               39
+27-Sep-14 St Scholastica              31 Westminster MO              24
+27-Sep-14 Chapman                     49 Whitworth                   34
+27-Sep-14 Lycoming                    27 Wilkes                      14
+27-Sep-14 South Dakota Tech           62 William Jewell              44
+27-Sep-14 Taylor                      10 William Penn                14
+27-Sep-14 Trinity CT                  38 Williams                     0
+27-Sep-14 Otterbein                   49 Wilmington                  21
+27-Sep-14 UNC-Pembroke                 3 Wingate                     21
+27-Sep-14 Minnesota-Duluth            28 Winona St                   21
+27-Sep-14 Elizabeth City St            7 Winston-Salem St            35
+27-Sep-14 South Florida               10 Wisconsin                   27
+27-Sep-14 Virginia-Wise               15 Wofford                     49
+27-Sep-14 Hiram                       24 Wooster                     39
+27-Sep-14 Army                        43 Yale                        49
+02-Oct-14 Alabama St                   7 Alcorn St                   33
+02-Oct-14 Florida Atlantic            10 Florida Int'l               38
+02-Oct-14 Delta St                    58 Florida Tech                20
+02-Oct-14 Central Florida             17 Houston                     12
+02-Oct-14 Benedict                    13 Miles                       23
+02-Oct-14 Arizona                     31 Oregon                      24
+02-Oct-14 Mississippi College         14 Shorter                     27
+03-Oct-14 Utah St                     35 Brigham Young               20
+03-Oct-14 MIT                         49 Curry                       20
+03-Oct-14 Lafayette                   18 Fordham                     42
+03-Oct-14 San Diego St                13 Fresno St                   24
+03-Oct-14 Louisville                  28 Syracuse                     6
+03-Oct-14 George Fox                   6 Willamette                  38
+04-Oct-14 Lamar                       24 Abilene Christian           21
+04-Oct-14 Olivet                      28 Adrian                      21
+04-Oct-14 Navy                        21 Air Force                   30
+04-Oct-14 Eastern Michigan             6 Akron                       31
+04-Oct-14 Grambling St                38 Alabama A&M                 28
+04-Oct-14 James Madison               31 Albany NY                   28
+04-Oct-14 Hope                        36 Albion                      37
+04-Oct-14 Apprentice                  30 Alfred St                   44
+04-Oct-14 Ohio Wesleyan               36 Allegheny                   19
+04-Oct-14 Bentley                     16 American Int'l              19
+04-Oct-14 Gallaudet                   53 Anna Maria                  26
+04-Oct-14 South Alabama               47 Appalachian St              21
+04-Oct-14 Louisiana-Monroe            14 Arkansas St                 28
+04-Oct-14 Arkansas-Monticello         13 Arkansas Tech               18
+04-Oct-14 Ball St                     24 Army                        33
+04-Oct-14 Malone                      13 Ashland                     42
+04-Oct-14 LSU                          7 Auburn                      41
+04-Oct-14 Eastern Kentucky            31 Austin Peay                  0
+04-Oct-14 Concordia AL                12 Ave Maria                   16
+04-Oct-14 Muskingum                    7 Baldwin Wallace             35
+04-Oct-14 Williams                    12 Bates                       19
+04-Oct-14 Castleton St                24 Becker                       0
+04-Oct-14 Evangel                      6 Benedictine KS              16
+04-Oct-14 Washington U.               23 Berry                       29
+04-Oct-14 Concordia-Moorhead          17 Bethel MN                   27
+04-Oct-14 Delaware St                  7 Bethune-Cookman             27
+04-Oct-14 Sewanee                      9 Birmingham-Southern         20
+04-Oct-14 Colorado Mesa               48 Black Hills St              31
+04-Oct-14 Bethel TN                   49 Bluefield                   21
+04-Oct-14 Hanover                     14 Bluffton                    20
+04-Oct-14 Tufts                       20 Bowdoin                     33
+04-Oct-14 Johnson C. Smith             0 Bowie St                    24
+04-Oct-14 Buffalo                     35 Bowling Green               36
+04-Oct-14 Lenoir-Rhyne                48 Brevard                     17
+04-Oct-14 Hastings                    59 Briar Cliff                 46
+04-Oct-14 Shenandoah                  23 Bridgewater VA              27
+04-Oct-14 Bucknell                    15 Bryant                      34
+04-Oct-14 Simpson                     31 Buena Vista                 38
+04-Oct-14 Southern Utah               39 Cal Poly SLO                42
+04-Oct-14 Mount Union                 75 Capital                      0
+04-Oct-14 Westminster PA              24 Carnegie Mellon             27
+04-Oct-14 Montana-Western             14 Carroll MT                  31
+04-Oct-14 Mars Hill                   20 Carson-Newman               48
+04-Oct-14 Bethany WV                  25 Case Western Reserve        14
+04-Oct-14 Tusculum                    21 Catawba                     51
+04-Oct-14 Hampden-Sydney              62 Catholic                    14
+04-Oct-14 Wartburg                    35 Central IA                  14
+04-Oct-14 MidAmerica Nazarene         18 Central Methodist           24
+04-Oct-14 Ohio U.                     10 Central Michigan            28
+04-Oct-14 Azusa Pacific               27 Central Washington          20
+04-Oct-14 Western St CO                7 Chadron St                  40
+04-Oct-14 Shepherd                    24 Charleston WV               15
+04-Oct-14 VMI                          7 Chattanooga                 55
+04-Oct-14 Bloomsburg                  41 Cheyney                      7
+04-Oct-14 Rhodes                      14 Chicago                     17
+04-Oct-14 Winston-Salem St            77 Chowan                      30
+04-Oct-14 Ferrum                      19 Christopher Newport         21
+04-Oct-14 Memphis                     41 Cincinnati                  14
+04-Oct-14 Chapman                     33 Claremont-Mudd-Scripps      23
+04-Oct-14 Morehouse                   20 Clark Atlanta                7
+04-Oct-14 North Carolina St            0 Clemson                     41
+04-Oct-14 Loras                       10 Coe                         36
+04-Oct-14 Wesleyan                    28 Colby                        7
+04-Oct-14 Holy Cross                  17 Colgate                     20
+04-Oct-14 Oregon St                   36 Colorado                    31
+04-Oct-14 Tulsa                       17 Colorado St                 42
+04-Oct-14 Adams St                     7 Colorado St-Pueblo          17
+04-Oct-14 Princeton                   38 Columbia                     6
+04-Oct-14 Dordt                       14 Concordia NE                38
+04-Oct-14 Concordia IL                20 Concordia WI                47
+04-Oct-14 Yale                        51 Cornell                     13
+04-Oct-14 St Norbert                  27 Cornell IA                  28
+04-Oct-14 Rowan                       38 Cortland St                 14
+04-Oct-14 Iowa Wesleyan               27 Crown                       19
+04-Oct-14 Dakota St                   22 Dakota Wesleyan             27
+04-Oct-14 Pennsylvania                13 Dartmouth                   31
+04-Oct-14 Dayton                      54 Davidson                    48
+04-Oct-14 Sacred Heart                10 Delaware                     7
+04-Oct-14 Albright                    24 Delaware Valley             56
+04-Oct-14 Denison                     15 DePauw                      27
+04-Oct-14 Franklin & Marshall         14 Dickinson                   27
+04-Oct-14 Jamestown                   10 Dickinson St                35
+04-Oct-14 Simon Fraser                29 Dixie St                    19
+04-Oct-14 Nebraska Wesleyan           29 Doane                       55
+04-Oct-14 West Liberty                13 Duquesne                    39
+04-Oct-14 Mt St Joseph                48 Earlham                     16
+04-Oct-14 SMU                         24 East Carolina               45
+04-Oct-14 Coll of Idaho                7 Eastern Oregon              47
+04-Oct-14 Idaho St                    53 Eastern Washington          56
+04-Oct-14 Indiana PA                  18 Edinboro                     8
+04-Oct-14 Livingstone                 21 Elizabeth City St           59
+04-Oct-14 Augustana IL                10 Elmhurst                    17
+04-Oct-14 New Hampshire               48 Elon                        14
+04-Oct-14 Randolph-Macon              28 Emory & Henry               38
+04-Oct-14 Lindenwood                  22 Emporia St                  37
+04-Oct-14 Martin Luther               15 Eureka                      40
+04-Oct-14 Concord                     45 Fairmont St                 21
+04-Oct-14 Findlay                     21 Ferris St                   49
+04-Oct-14 Mass Maritime               21 Fitchburg St                26
+04-Oct-14 Morgan St                   24 Florida A&M                  9
+04-Oct-14 Wake Forest                  3 Florida St                  43
+04-Oct-14 Kansas Wesleyan             14 Friends                     53
+04-Oct-14 Buffalo St                  31 Frostburg St                14
+04-Oct-14 Coastal Carolina            37 Furman                      31
+04-Oct-14 UNC-Charlotte               24 Gardner-Webb                27
+04-Oct-14 Harvard                     34 Georgetown DC                3
+04-Oct-14 Faulkner                    10 Georgetown KY               27
+04-Oct-14 Vanderbilt                  17 Georgia                     44
+04-Oct-14 Miami FL                    17 Georgia Tech                28
+04-Oct-14 McDaniel                     7 Gettysburg                  47
+04-Oct-14 Culver-Stockton              0 Graceland                   45
+04-Oct-14 St Xavier                   37 Grand View                  41
+04-Oct-14 MacMurray                   44 Greenville                  63
+04-Oct-14 Waynesburg                  35 Grove City                   0
+04-Oct-14 Washington and Lee          28 Guilford                    52
+04-Oct-14 Carleton                     0 Gustavus Adolphus           50
+04-Oct-14 Trinity CT                  19 Hamilton                     7
+04-Oct-14 Southern Arkansas           13 Harding                     56
+04-Oct-14 Trinity TX                  17 Hardin-Simmons              42
+04-Oct-14 Alfred                      30 Hartwick                    34
+04-Oct-14 NW Oklahoma St              14 Henderson St                63
+04-Oct-14 Millsaps                    30 Hendrix                     35
+04-Oct-14 Grand Valley St             42 Hillsdale                   21
+04-Oct-14 Texas Lutheran              54 Howard Payne                27
+04-Oct-14 South Dakota Tech            0 Humboldt St                 53
+04-Oct-14 Greensboro                  14 Huntingdon AL               51
+04-Oct-14 Norwich                     10 Husson                      20
+04-Oct-14 Purdue                      38 Illinois                    27
+04-Oct-14 Ripon                        6 Illinois College            21
+04-Oct-14 South Dakota St             10 Illinois St                 45
+04-Oct-14 Carthage                    20 Illinois Wesleyan           10
+04-Oct-14 Houston Baptist              8 Incarnate Word              31
+04-Oct-14 North Texas                 24 Indiana                     49
+04-Oct-14 Northern Iowa               19 Indiana St                  20
+04-Oct-14 Utica                       10 Ithaca                      27
+04-Oct-14 Prairie View A&M            48 Jackson St                  30
+04-Oct-14 Drake                       14 Jacksonville FL             29
+04-Oct-14 Tennessee-Martin            14 Jacksonville St             38
+04-Oct-14 Juniata                     14 Johns Hopkins               56
+04-Oct-14 Benedictine IL              16 Kalamazoo                   14
+04-Oct-14 Texas Tech                  13 Kansas St                   45
+04-Oct-14 Southern Virginia           27 Kean                        28
+04-Oct-14 South Carolina              38 Kentucky                    45
+04-Oct-14 Campbellsville               6 Kentucky Christian          12
+04-Oct-14 Central St OH               24 Kentucky St                 31 Indianapolis IN
+04-Oct-14 Lebanon Valley               7 King's PA                   10
+04-Oct-14 Occidental                  33 La Verne                    27
+04-Oct-14 Ohio Dominican              48 Lake Erie                   14
+04-Oct-14 Wisconsin Lutheran           7 Lakeland                    47
+04-Oct-14 Stillman                    55 Lane                        16
+04-Oct-14 Grinnell                    29 Lawrence                     7
+04-Oct-14 Richmond                    46 Liberty                     39
+04-Oct-14 Fayetteville St             34 Lincoln PA                  13
+04-Oct-14 Cumberlands KY              28 Lindsey Wilson              31
+04-Oct-14 UTEP                         3 Louisiana Tech              55
+04-Oct-14 Georgia St                  31 Louisiana-Lafayette         34
+04-Oct-14 Dubuque                     14 Luther                      28
+04-Oct-14 Stevenson                   10 Lycoming                    31
+04-Oct-14 Knox                         0 Macalester                  34
+04-Oct-14 Villanova                   41 Maine                       20
+04-Oct-14 Endicott                    45 Maine Maritime              28
+04-Oct-14 Franklin                    29 Manchester                  28
+04-Oct-14 Trinity Bible               39 Maranatha Baptist           12
+04-Oct-14 Wilmington                  37 Marietta                    47
+04-Oct-14 Bemidji St                  21 Mary                        20
+04-Oct-14 Ohio State                  52 Maryland                    24
+04-Oct-14 LaGrange                    17 Maryville                   48
+04-Oct-14 Presentation                40 Mayville St                 39
+04-Oct-14 Truman St                   30 McKendree                   17
+04-Oct-14 Nicholls St                  3 McNeese St                  45
+04-Oct-14 RPI                         45 Merchant Marine             14
+04-Oct-14 Clarion                      0 Mercyhurst                  28
+04-Oct-14 St Anselm                   55 Merrimack                   24
+04-Oct-14 Massachusetts               41 Miami OH                    42
+04-Oct-14 Nebraska                    22 Michigan St                 27
+04-Oct-14 Southern Miss               31 Middle Tennessee St         37
+04-Oct-14 Amherst                      7 Middlebury                   0
+04-Oct-14 Angelo St                   45 Midwestern St               31
+04-Oct-14 Kutztown                    54 Millersville                 7
+04-Oct-14 SW Minnesota St             14 Minn St-Mankato             56
+04-Oct-14 St Cloud St                 45 Minnesota-Crookston         24
+04-Oct-14 Minn St-Moorhead            28 Minnesota-Duluth            63
+04-Oct-14 Westminster MO              28 Minnesota-Morris            14
+04-Oct-14 Widener                     44 Misericordia                 0
+04-Oct-14 Alabama                     17 Mississippi                 23
+04-Oct-14 Texas A&M                   31 Mississippi St              48
+04-Oct-14 Central Missouri            34 Missouri Southern           31
+04-Oct-14 Youngstown St               14 Missouri St                  7
+04-Oct-14 Avila                        0 Missouri Valley             55
+04-Oct-14 Pittsburg St                23 Missouri Western            13
+04-Oct-14 Beloit                       7 Monmouth IL                 40
+04-Oct-14 Campbell                    31 Morehead St                 24
+04-Oct-14 Midland U.                  28 Morningside                 68
+04-Oct-14 New Jersey                  13 Morrisville St              41
+04-Oct-14 SUNY-Maritime                6 Mount Ida                    7
+04-Oct-14 Central Oklahoma            49 Nebraska-Kearney             0
+04-Oct-14 Boise St                    51 Nevada                      46
+04-Oct-14 Colorado Mines              42 New Mexico Highlands        35
+04-Oct-14 Georgia Southern            36 New Mexico St               28
+04-Oct-14 Wingate                     10 Newberry                    33
+04-Oct-14 Western Oregon              10 North Alabama               30
+04-Oct-14 Virginia Tech               34 North Carolina              17
+04-Oct-14 Howard                      22 North Carolina Central      27
+04-Oct-14 Averett                     30 North Carolina Wesleyan     34
+04-Oct-14 Millikin                    13 North Central               47
+04-Oct-14 Montana                     18 North Dakota                15
+04-Oct-14 Limestone                    9 North Greenville            38
+04-Oct-14 Northern Arizona            17 Northern Colorado           24
+04-Oct-14 Kent St                     14 Northern Illinois           17
+04-Oct-14 Minot St                    14 Northern St SD              42
+04-Oct-14 Wisconsin                   14 Northwestern                20
+04-Oct-14 Stanford                    14 Notre Dame                  17
+04-Oct-14 Northeastern St OK           7 NW Missouri St              49
+04-Oct-14 John Carroll                17 Ohio Northern               10
+04-Oct-14 Sul Ross St                  0 OK Panhandle St             56
+04-Oct-14 Iowa St                     20 Oklahoma St                 37
+04-Oct-14 Marshall                    56 Old Dominion                14
+04-Oct-14 Trinity Int'l               29 Olivet Nazarene             36
+04-Oct-14 McPherson                   38 Ottawa                      41
+04-Oct-14 Heidelberg                  45 Otterbein                   28
+04-Oct-14 SW Oklahoma St              21 Ouachita Baptist            54
+04-Oct-14 LIU Post                    44 Pace                        36
+04-Oct-14 Linfield                    41 Pacific Lutheran            14
+04-Oct-14 Whitworth                   15 Pacific OR                  29
+04-Oct-14 Albany St GA                17 Paine                        0
+04-Oct-14 Baker                       24 Peru St                     10
+04-Oct-14 Cumberland TN               36 Pikeville                   30
+04-Oct-14 Warner U.                   37 Point U.                     7
+04-Oct-14 Redlands                    47 Pomona-Pitzer                7
+04-Oct-14 UC-Davis                    14 Portland St                 23
+04-Oct-14 Western Carolina            14 Presbyterian                19
+04-Oct-14 Lewis & Clark                7 Puget Sound                 38
+04-Oct-14 Indianapolis                42 Quincy                      20
+04-Oct-14 Union KY                    41 Reinhardt                   61
+04-Oct-14 Brown                       20 Rhode Island                13
+04-Oct-14 Hawai`i                     14 Rice                        28
+04-Oct-14 Marian IN                    7 Robert Morris IL            20
+04-Oct-14 Monmouth NJ                 51 Robert Morris PA            20
+04-Oct-14 St Lawrence                 31 Rochester                    6
+04-Oct-14 Aurora                      20 Rockford                     7
+04-Oct-14 Anderson                    14 Rose-Hulman                 51
+04-Oct-14 Michigan                    24 Rutgers                     26
+04-Oct-14 Montana St                  59 Sacramento St               56
+04-Oct-14 Northern Michigan            7 Saginaw Valley St           14
+04-Oct-14 Nichols                      7 Salve Regina                48
+04-Oct-14 Mercer                      18 Samford                     21
+04-Oct-14 UNLV                        10 San José St                 33
+04-Oct-14 Norfolk St                  14 Savannah St                  7
+04-Oct-14 Northwestern St             22 SE Louisiana                30
+04-Oct-14 Tennessee St                21 SE Missouri St              28
+04-Oct-14 Bacone                       7 SE Oklahoma St              53
+04-Oct-14 California PA               31 Seton Hill                  21
+04-Oct-14 East Stroudsburg            37 Shippensburg                33
+04-Oct-14 Concordia-St Paul            9 Sioux Falls                 38
+04-Oct-14 Gannon                      28 Slippery Rock               31
+04-Oct-14 North Carolina A&T           0 South Carolina St           13 Atlanta GA
+04-Oct-14 Edward Waters               27 Southeastern U.             51
+04-Oct-14 Arizona St                  38 Southern Cal                34
+04-Oct-14 Assumption                  13 Southern Conn St            12
+04-Oct-14 South Dakota                10 Southern Illinois           41
+04-Oct-14 East Central OK             31 Southern Nazarene           26
+04-Oct-14 Arkansas-Pine Bluff         36 Southern U.                 51
+04-Oct-14 Tabor                        6 Southwestern KS             27
+04-Oct-14 Austin                      20 Southwestern TX             13
+04-Oct-14 William Penn                31 St Ambrose                  10
+04-Oct-14 Concordia MI                14 St Francis IL               34
+04-Oct-14 Siena Heights               27 St Francis IN               21
+04-Oct-14 Salisbury                   37 St John Fisher              34
+04-Oct-14 Hamline                     28 St John's MN                49
+04-Oct-14 Missouri S&T                14 St Joseph's IN              13
+04-Oct-14 Bethel KS                   18 St Mary KS                  25
+04-Oct-14 St Thomas                   69 St Olaf                      7
+04-Oct-14 Northwestern MN             24 St Scholastica              28
+04-Oct-14 Central Arkansas            49 Stephen F. Austin           39
+04-Oct-14 Bethany KS                  39 Sterling                    42
+04-Oct-14 Butler                      49 Stetson                     41
+04-Oct-14 New Haven                   23 Stonehill                   17
+04-Oct-14 Muhlenberg                  24 Susquehanna                 20
+04-Oct-14 Oklahoma Baptist            20 SW Assem of God             30
+04-Oct-14 Missouri Baptist             0 SW Baptist                  56
+04-Oct-14 Tarleton St                 25 TAMU-Commerce               53
+04-Oct-14 Eastern New Mexico          31 TAMU-Kingsville              0
+04-Oct-14 Oklahoma                    33 TCU                         37
+04-Oct-14 Florida                     10 Tennessee                    9
+04-Oct-14 Murray St                   27 Tennessee Tech              30
+04-Oct-14 Baylor                      28 Texas                        7
+04-Oct-14 Langston                    61 Texas College                0
+04-Oct-14 Mississippi Valley St       16 Texas Southern              20
+04-Oct-14 Idaho                       30 Texas St-San Marcos         35
+04-Oct-14 New Mexico                  21 Texas-San Antonio            9
+04-Oct-14 St Vincent                  20 Thiel                       21
+04-Oct-14 Stony Brook                 14 Towson                       3
+04-Oct-14 Alma                        23 Trine                       26
+04-Oct-14 Fort Valley St              28 Tuskegee                    35
+04-Oct-14 Utah                        30 UCLA                        28
+04-Oct-14 Framingham St               48 UMass-Dartmouth             14
+04-Oct-14 Springfield                 42 Union NY                    35
+04-Oct-14 Augustana SD                25 Upper Iowa                  31
+04-Oct-14 West Virginia St            18 Urbana                      13
+04-Oct-14 Moravian                     0 Ursinus                     24
+04-Oct-14 UW-Platteville              49 UW-Eau Claire                0
+04-Oct-14 UW-Stout                     7 UW-Oshkosh                  32
+04-Oct-14 UW-Stevens Point            17 UW-River Falls              14
+04-Oct-14 UW-La Crosse                 7 UW-Whitewater               38
+04-Oct-14 Waldorf                     26 Valley City St              58
+04-Oct-14 Marist                      35 Valparaiso                   7
+04-Oct-14 Pittsburgh                  19 Virginia                    24
+04-Oct-14 St Augustine's              35 Virginia St                 42
+04-Oct-14 Shaw                         9 Virginia Union              31
+04-Oct-14 Notre Dame OH               41 Virginia-Wise               10
+04-Oct-14 Wooster                     16 Wabash                      35
+04-Oct-14 Alderson-Broaddus            0 Wagner                      26
+04-Oct-14 Northwood                   24 Walsh                       13
+04-Oct-14 Thomas More                 28 Wash & Jeff                 51
+04-Oct-14 Fort Hays St                24 Washburn                    27
+04-Oct-14 California                  60 Washington St               59
+04-Oct-14 Tiffin                      26 Wayne St MI                 23
+04-Oct-14 Winona St                    7 Wayne St NE                 27
+04-Oct-14 Arizona Christian           26 Webber Int'l                49
+04-Oct-14 Louisiana College           21 Wesley                      56
+04-Oct-14 Lock Haven                  16 West Chester                41
+04-Oct-14 West Alabama                17 West Georgia                26
+04-Oct-14 McMurry                     21 West Texas A&M              56
+04-Oct-14 Kansas                      14 West Virginia               33
+04-Oct-14 Bridgewater St MA           10 Western Conn St             34
+04-Oct-14 North Dakota St             17 Western Illinois            10
+04-Oct-14 Alabama-Birmingham          42 Western Kentucky            39
+04-Oct-14 Toledo                      20 Western Michigan            19
+04-Oct-14 Coast Guard                  7 Western New England         22
+04-Oct-14 Fort Lewis                  17 Western New Mexico          24
+04-Oct-14 Plymouth St                  0 Westfield St                35
+04-Oct-14 North Park                  21 Wheaton                     48
+04-Oct-14 Cal Lutheran                34 Whittier                    24
+04-Oct-14 FDU-Florham                 21 Wilkes                      52
+04-Oct-14 Lincoln MO                  13 William Jewell              20
+04-Oct-14 Montclair St                19 William Paterson             6
+04-Oct-14 Hiram                        0 Wittenberg                  48
+04-Oct-14 The Citadel                 13 Wofford                     17
+04-Oct-14 Hobart                      28 WPI                         14
+04-Oct-14 Glenville St                35 WV Wesleyan                 38
+09-Oct-14 Humboldt St                 21 Azusa Pacific               55
+09-Oct-14 Brigham Young               24 Central Florida             31
+09-Oct-14 Shorter                     20 Delta St                    35
+09-Oct-14 West Chester                29 Kutztown                     7
+09-Oct-14 Hampton                     14 North Carolina A&T          31
+09-Oct-14 Tennessee Tech              10 Tennessee-Martin            17
+09-Oct-14 Minn St-Mankato             44 Winona St                   24
+10-Oct-14 Pace                         0 Assumption                  52
+10-Oct-14 UMass-Dartmouth             37 Bridgewater St MA           10
+10-Oct-14 San Diego St                24 New Mexico                  14
+10-Oct-14 Catholic                    21 Randolph-Macon              42
+10-Oct-14 Washington St               17 Stanford                    34
+10-Oct-14 Fresno St                   27 UNLV                        30
+11-Oct-14 Ave Maria                   14 Abilene Christian           55
+11-Oct-14 Chadron St                  45 Adams St                    31
+11-Oct-14 Miami OH                    19 Akron                       29
+11-Oct-14 Southern U.                 35 Alabama A&M                 34
+11-Oct-14 North Texas                 21 Alabama-Birmingham          56
+11-Oct-14 Richmond                    41 Albany NY                   28
+11-Oct-14 Lane                         0 Albany St GA                33
+11-Oct-14 Kalamazoo                   22 Albion                      75
+11-Oct-14 FDU-Florham                 20 Albright                    38
+11-Oct-14 Point U.                    24 Alderson-Broaddus           59
+11-Oct-14 Adrian                      31 Alma                         0
+11-Oct-14 Colby                       10 Amherst                     35
+11-Oct-14 TAMU-Commerce               41 Angelo St                   40
+11-Oct-14 Liberty                     55 Appalachian St              48
+11-Oct-14 Southern Cal                28 Arizona                     26
+11-Oct-14 Alabama                     14 Arkansas                    13
+11-Oct-14 Harding                     55 Arkansas-Monticello         15
+11-Oct-14 Rice                        41 Army                        21
+11-Oct-14 Saginaw Valley St            7 Ashland                     38
+11-Oct-14 Wheaton                     20 Augustana IL                13
+11-Oct-14 Sioux Falls                 23 Augustana SD                12
+11-Oct-14 Concordia WI                62 Aurora                      24
+11-Oct-14 Texas College                6 Bacone                      47
+11-Oct-14 Benedictine KS              21 Baker                       27
+11-Oct-14 Western Michigan            42 Ball St                     38
+11-Oct-14 Wesleyan                    24 Bates                       10
+11-Oct-14 TCU                         58 Baylor                      61
+11-Oct-14 Bluefield                   45 Belhaven                    27
+11-Oct-14 Minnesota-Crookston          3 Bemidji St                  38
+11-Oct-14 Stillman                    48 Benedict                    36
+11-Oct-14 Merrimack                   28 Bentley                     25
+11-Oct-14 Southwestern KS             16 Bethany KS                  21
+11-Oct-14 Carnegie Mellon              7 Bethany WV                  19
+11-Oct-14 Howard                      12 Bethune-Cookman             49
+11-Oct-14 Millersville                 0 Bloomsburg                  41
+11-Oct-14 Emory & Henry               34 Bridgewater VA              21
+11-Oct-14 Frostburg St                 0 Brockport St                46
+11-Oct-14 Holy Cross                  24 Brown                       27
+11-Oct-14 Washington                  31 California                   7
+11-Oct-14 Slippery Rock               26 California PA               48
+11-Oct-14 Butler                       9 Campbell                    28
+11-Oct-14 Georgetown KY               24 Campbellsville              28
+11-Oct-14 St Norbert                   6 Carroll WI                  30
+11-Oct-14 Elmhurst                    49 Carthage                    42
+11-Oct-14 Anna Maria                   9 Castleton St                65
+11-Oct-14 Houston Baptist              0 Central Arkansas            70
+11-Oct-14 Duquesne                    28 Central Conn St             20
+11-Oct-14 Washburn                     0 Central Missouri            44
+11-Oct-14 Missouri Southern           41 Central Oklahoma            43
+11-Oct-14 Berry                        7 Centre                      44
+11-Oct-14 Pomona-Pitzer                0 Chapman                     58
+11-Oct-14 Bowie St                    39 Chowan                      11
+11-Oct-14 La Verne                    24 Claremont-Mudd-Scripps      40
+11-Oct-14 Edinboro                    56 Clarion                     28
+11-Oct-14 Louisville                  17 Clemson                     23
+11-Oct-14 Curry                        0 Coast Guard                 17
+11-Oct-14 Wartburg                    43 Coe                          0
+11-Oct-14 Princeton                   30 Colgate                     31
+11-Oct-14 Montana St-Northern         31 Coll of Idaho               35
+11-Oct-14 New Mexico Highlands        19 Colorado Mesa               31
+11-Oct-14 Western New Mexico          37 Colorado Mines              44
+11-Oct-14 Urbana                      20 Concord                     50
+11-Oct-14 Wesley                      54 Concordia AL                 0
+11-Oct-14 Lakeland                    35 Concordia IL                 7
+11-Oct-14 Taylor                      43 Concordia MI                21
+11-Oct-14 Carleton                     7 Concordia-Moorhead          34
+11-Oct-14 Wayne St NE                 54 Concordia-St Paul           14
+11-Oct-14 Central Methodist           44 Culver-Stockton             30
+11-Oct-14 Jamestown                   37 Dakota St                   29
+11-Oct-14 Doane                       23 Dakota Wesleyan             27
+11-Oct-14 Elon                        24 Delaware                    34
+11-Oct-14 Lycoming                    42 Delaware Valley             52
+11-Oct-14 Wittenberg                  30 Denison                     23
+11-Oct-14 Davidson                    14 Drake                       51
+11-Oct-14 Simpson                     10 Dubuque                     44
+11-Oct-14 Cheyney                     21 East Stroudsburg            49
+11-Oct-14 Eastern Illinois            33 Eastern Kentucky            36
+11-Oct-14 Buffalo                     27 Eastern Michigan            37
+11-Oct-14 Carroll MT                  55 Eastern Oregon               7
+11-Oct-14 Webber Int'l                70 Edward Waters               14
+11-Oct-14 Nichols                     16 Endicott                    26
+11-Oct-14 Avila                       20 Evangel                     54
+11-Oct-14 Tiffin                      20 Ferris St                   68
+11-Oct-14 Maryville                   23 Ferrum                      13
+11-Oct-14 Walsh                        7 Findlay                     47
+11-Oct-14 LSU                         30 Florida                     27
+11-Oct-14 Savannah St                 14 Florida A&M                 24
+11-Oct-14 Pennsylvania                22 Fordham                     60
+11-Oct-14 Missouri Western            26 Fort Hays St                 7
+11-Oct-14 Colorado St-Pueblo          22 Fort Lewis                  23
+11-Oct-14 Kentucky St                 21 Fort Valley St              36
+11-Oct-14 Westfield St                 7 Framingham St               28
+11-Oct-14 Earlham                     20 Franklin                    49
+11-Oct-14 Becker                      12 Gallaudet                   16
+11-Oct-14 Mercyhurst                  45 Gannon                      38
+11-Oct-14 Thomas More                 42 Geneva                       3
+11-Oct-14 Idaho                       24 Georgia Southern            47
+11-Oct-14 Arkansas St                 52 Georgia St                  10
+11-Oct-14 Duke                        31 Georgia Tech                25
+11-Oct-14 Charleston WV               30 Glenville St                34
+11-Oct-14 Alcorn St                   21 Grambling St                28
+11-Oct-14 Wayne St MI                  3 Grand Valley St             17
+11-Oct-14 Olivet Nazarene              2 Grand View                  32
+11-Oct-14 Crown                       17 Greenville                  35
+11-Oct-14 Cornell IA                  35 Grinnell                    17
+11-Oct-14 Wash & Jeff                 55 Grove City                  14
+11-Oct-14 Bowdoin                     30 Hamilton                    24
+11-Oct-14 Bethel MN                   38 Hamline                     14
+11-Oct-14 Mt St Joseph                53 Hanover                     28
+11-Oct-14 Cornell                      7 Harvard                     24
+11-Oct-14 Waldorf                     48 Haskell                     19
+11-Oct-14 Morningside                 76 Hastings                    14
+11-Oct-14 Wyoming                     28 Hawai`i                     38
+11-Oct-14 Muskingum                   21 Heidelberg                  54
+11-Oct-14 Kenyon                       8 Hiram                       31
+11-Oct-14 Springfield                  7 Hobart                      37
+11-Oct-14 Rockford                    12 Hope                        38
+11-Oct-14 Christopher Newport         31 Huntingdon AL               51
+11-Oct-14 Simon Fraser                14 Idaho St                    66
+11-Oct-14 Monmouth IL                 24 Illinois College            31
+11-Oct-14 Seton Hill                  28 Indiana PA                  51
+11-Oct-14 Illinois St                 20 Indiana St                  18
+11-Oct-14 McKendree                    7 Indianapolis                52
+11-Oct-14 Indiana                     29 Iowa                        45
+11-Oct-14 Toledo                      30 Iowa St                     37
+11-Oct-14 Martin Luther               14 Iowa Wesleyan               34
+11-Oct-14 Buffalo St                  38 Ithaca                      27
+11-Oct-14 Mississippi Valley St       27 Jackson St                  23
+11-Oct-14 Towson                       7 James Madison               62
+11-Oct-14 Winston-Salem St            37 Johnson C. Smith             0
+11-Oct-14 Oklahoma St                 27 Kansas                      20
+11-Oct-14 Tabor                       70 Kansas Wesleyan             35
+11-Oct-14 Massachusetts               40 Kent St                     17
+11-Oct-14 Louisiana-Monroe            14 Kentucky                    48
+11-Oct-14 Lindsey Wilson              31 Kentucky Christian           7
+11-Oct-14 Lake Forest                 27 Knox                         6
+11-Oct-14 Georgetown DC               21 Lafayette                   24
+11-Oct-14 North Carolina Wesleyan     48 LaGrange                    21
+11-Oct-14 SE Louisiana                61 Lamar                       34
+11-Oct-14 Beloit                      13 Lawrence                    21
+11-Oct-14 Misericordia                16 Lebanon Valley              44
+11-Oct-14 Bucknell                    45 Lehigh                      24
+11-Oct-14 North Greenville            21 Lenoir-Rhyne                32
+11-Oct-14 Pacific Lutheran            44 Lewis & Clark                7
+11-Oct-14 Paine                       30 Limestone                   47
+11-Oct-14 St Joseph's IN              28 Lincoln MO                  20
+11-Oct-14 NW Missouri St              51 Lindenwood                  20
+11-Oct-14 George Fox                   0 Linfield                    59
+11-Oct-14 Stonehill                   25 LIU Post                    28
+11-Oct-14 St Augustine's              31 Livingstone                 30
+11-Oct-14 Shippensburg                42 Lock Haven                  24
+11-Oct-14 Buena Vista                 48 Loras                       29
+11-Oct-14 Central IA                  47 Luther                       7
+11-Oct-14 St Scholastica              55 MacMurray                    7
+11-Oct-14 Northern Michigan           35 Malone                      42
+11-Oct-14 Defiance                    23 Manchester                  37
+11-Oct-14 Siena Heights                7 Marian IN                   26
+11-Oct-14 Baldwin Wallace             40 Marietta                    33
+11-Oct-14 Dayton                      31 Marist                      21
+11-Oct-14 Brevard                     31 Mars Hill                   37
+11-Oct-14 Middle Tennessee St         24 Marshall                    49
+11-Oct-14 Western Conn St             30 Mass Maritime               19
+11-Oct-14 Eastern New Mexico          62 McMurry                     23
+11-Oct-14 Friends                     45 McPherson                   17
+11-Oct-14 Houston                     28 Memphis                     24
+11-Oct-14 Arizona Christian           14 Menlo                       35
+11-Oct-14 Austin Peay                 21 Mercer                      49
+11-Oct-14 Rochester                   20 Merchant Marine             17
+11-Oct-14 Greensboro                  35 Methodist                   63
+11-Oct-14 Cincinnati                  34 Miami FL                    55
+11-Oct-14 Penn State                  13 Michigan                    18
+11-Oct-14 Missouri Valley             17 MidAmerica Nazarene         20
+11-Oct-14 Central St OH               12 Miles                       22
+11-Oct-14 Illinois Wesleyan           31 Millikin                     7
+11-Oct-14 Northern St SD              40 Minn St-Moorhead            38
+11-Oct-14 Northwestern                17 Minnesota                   24
+11-Oct-14 Mary                        31 Minot St                    29
+11-Oct-14 Auburn                      23 Mississippi St              38
+11-Oct-14 Georgia                     34 Missouri                     0
+11-Oct-14 Lindenwood-Belleville        3 Missouri S&T                21
+11-Oct-14 Columbia                    28 Monmouth NJ                 61
+11-Oct-14 Rocky Mountain              45 Montana Tech                39
+11-Oct-14 Jacksonville FL             45 Morehead St                 26
+11-Oct-14 Kean                        31 Morrisville St              37
+11-Oct-14 SE Missouri St              41 Murray St                   44
+11-Oct-14 VMI                         14 Navy                        51
+11-Oct-14 Concordia NE                34 Nebraska Wesleyan           37
+11-Oct-14 Colorado St                 31 Nevada                      24
+11-Oct-14 William & Mary               3 New Hampshire               32
+11-Oct-14 Southern Conn St            14 New Haven                   27
+11-Oct-14 Cortland St                 24 New Jersey                  14
+11-Oct-14 Stephen F. Austin           42 Nicholls St                 20
+11-Oct-14 Delaware St                 13 Norfolk St                  10
+11-Oct-14 Boston College              30 North Carolina St           14
+11-Oct-14 Portland St                 16 North Dakota                24
+11-Oct-14 Southern Illinois           10 North Dakota St             38
+11-Oct-14 North Central               58 North Park                  26
+11-Oct-14 Nebraska-Kearney            34 Northeastern St OK           7
+11-Oct-14 Sacramento St               43 Northern Colorado           38
+11-Oct-14 Central Michigan            34 Northern Illinois           17
+11-Oct-14 Briar Cliff                  0 Northwestern IA             38
+11-Oct-14 Minnesota-Morris             0 Northwestern MN             33
+11-Oct-14 Incarnate Word              12 Northwestern St             49
+11-Oct-14 Michigan Tech               21 Northwood                    6
+11-Oct-14 Mount Ida                   19 Norwich                     28
+11-Oct-14 North Carolina              43 Notre Dame                  50
+11-Oct-14 Lake Erie                   42 Notre Dame OH               35
+11-Oct-14 Ouachita Baptist            41 NW Oklahoma St              10
+11-Oct-14 DePauw                      54 Oberlin                     14
+11-Oct-14 Whittier                    17 Occidental                  23
+11-Oct-14 Hillsdale                    3 Ohio Dominican               9
+11-Oct-14 Mount Union                 62 Ohio Northern                0
+11-Oct-14 Bowling Green               31 Ohio U.                     13
+11-Oct-14 Wabash                      45 Ohio Wesleyan               13
+11-Oct-14 Langston                    28 Oklahoma Baptist            21
+11-Oct-14 Trine                       46 Olivet                      42
+11-Oct-14 Capital                     28 Otterbein                   50
+11-Oct-14 Graceland                   27 Peru St                     20
+11-Oct-14 Emporia St                  17 Pittsburg St                45
+11-Oct-14 Alabama St                  24 Prairie View A&M            34
+11-Oct-14 Coastal Carolina            40 Presbyterian                28
+11-Oct-14 Maranatha Baptist            0 Presentation                49
+11-Oct-14 Pacific OR                  44 Puget Sound                 17
+11-Oct-14 Michigan St                 45 Purdue                      31
+11-Oct-14 SW Baptist                  34 Quincy                      59
+11-Oct-14 Cal Lutheran                27 Redlands                    59
+11-Oct-14 Sewanee                     22 Rhodes                      40
+11-Oct-14 Macalester                  28 Ripon                       20
+11-Oct-14 St Francis IL                7 Robert Morris IL            12
+11-Oct-14 Bluffton                    31 Rose-Hulman                 17
+11-Oct-14 William Paterson            14 Rowan                       33
+11-Oct-14 St Lawrence                 24 RPI                         10
+11-Oct-14 Robert Morris PA            13 Sacred Heart                52
+11-Oct-14 Utica                       19 Salisbury                   36
+11-Oct-14 McNeese St                  22 Sam Houston St              38
+11-Oct-14 Stetson                     23 San Diego                   31
+11-Oct-14 Southern Nazarene            0 SE Oklahoma St              45
+11-Oct-14 Fayetteville St             27 Shaw                        26
+11-Oct-14 Guilford                    31 Shenandoah                  47
+11-Oct-14 Virginia-Wise                0 Shepherd                    51
+11-Oct-14 North Carolina Central      48 South Carolina St           35
+11-Oct-14 Northern Iowa               27 South Dakota                16
+11-Oct-14 Missouri St                 28 South Dakota St             32
+11-Oct-14 Central Washington          61 South Dakota Tech           34
+11-Oct-14 East Carolina               28 South Florida               17
+11-Oct-14 Birmingham-Southern         21 Southeastern U.             42
+11-Oct-14 Arkansas Tech               14 Southern Arkansas           21
+11-Oct-14 Montana-Western              6 Southern Oregon             31
+11-Oct-14 Eastern Washington          42 Southern Utah               30
+11-Oct-14 Montclair St                35 Southern Virginia           15
+11-Oct-14 OK Panhandle St             59 Southwestern TX              7
+11-Oct-14 American Int'l              48 St Anselm                   26
+11-Oct-14 Minnesota-Duluth            44 St Cloud St                 21
+11-Oct-14 Hartwick                    13 St John Fisher              42
+11-Oct-14 Ottawa                      24 St Mary KS                  14
+11-Oct-14 Gustavus Adolphus           37 St Olaf                     29
+11-Oct-14 Augsburg                    27 St Thomas                   45
+11-Oct-14 St Francis IN               26 St Xavier                   53
+11-Oct-14 Bethel KS                   14 Sterling                    31
+11-Oct-14 Maine                        7 Stony Brook                 19
+11-Oct-14 Mary Hardin-Baylor          56 Sul Ross St                  9
+11-Oct-14 Husson                      40 SUNY-Maritime                0
+11-Oct-14 Wayland Baptist             20 SW Assem of God             40
+11-Oct-14 Upper Iowa                  25 SW Minnesota St             28
+11-Oct-14 Henderson St                28 SW Oklahoma St              14
+11-Oct-14 Florida St                  38 Syracuse                    20
+11-Oct-14 TAMU-Kingsville             14 Tarleton St                 80
+11-Oct-14 Tulsa                       24 Temple                      35
+11-Oct-14 Chattanooga                 10 Tennessee                   45
+11-Oct-14 Jacksonville St             27 Tennessee St                20
+11-Oct-14 Oklahoma                    31 Texas                       26 Dallas TX
+11-Oct-14 Mississippi                 35 Texas A&M                   20
+11-Oct-14 East Texas Baptist          49 Texas Lutheran              55
+11-Oct-14 West Virginia               37 Texas Tech                  34
+11-Oct-14 Florida Int'l               13 Texas-San Antonio           16
+11-Oct-14 UNC-Charlotte               56 The Citadel                 63
+11-Oct-14 Dordt                       37 Trinity Bible               20
+11-Oct-14 Tufts                       14 Trinity CT                  35
+11-Oct-14 St Ambrose                  34 Trinity Int'l               23
+11-Oct-14 Chicago                     14 Trinity TX                   7
+11-Oct-14 New Mexico St               24 Troy                        41
+11-Oct-14 William Jewell              21 Truman St                   17
+11-Oct-14 Connecticut                  3 Tulane                      12
+11-Oct-14 Newberry                    14 Tusculum                    16
+11-Oct-14 Morehouse                    0 Tuskegee                    49 Columbus GA
+11-Oct-14 Montana St                  77 UC-Davis                    37
+11-Oct-14 Oregon                      42 UCLA                        30
+11-Oct-14 North Alabama               27 UNC-Pembroke                 6
+11-Oct-14 Cumberland TN               47 Union KY                    46
+11-Oct-14 Air Force                   16 Utah St                     34
+11-Oct-14 Old Dominion                35 UTEP                        42
+11-Oct-14 UW-Oshkosh                  21 UW-La Crosse                18
+11-Oct-14 UW-River Falls              14 UW-Platteville              24
+11-Oct-14 UW-Eau Claire                3 UW-Stevens Point            30
+11-Oct-14 UW-Whitewater               37 UW-Stout                     0
+11-Oct-14 West Georgia                 6 Valdosta St                 40
+11-Oct-14 Mayville St                  6 Valley City St              62
+11-Oct-14 Missouri Baptist             7 Valparaiso                  55
+11-Oct-14 Charleston Southern         20 Vanderbilt                  21
+11-Oct-14 Rhode Island                21 Villanova                   44
+11-Oct-14 Elizabeth City St           14 Virginia St                 41
+11-Oct-14 Lincoln PA                  13 Virginia Union              78
+11-Oct-14 St Francis PA               39 Wagner                      46
+11-Oct-14 Kentucky Wesleyan           45 Warner U.                   48
+11-Oct-14 Hampden-Sydney              55 Washington and Lee          32
+11-Oct-14 Hendrix                     19 Washington U.               59
+11-Oct-14 Case Western Reserve        15 Waynesburg                  35
+11-Oct-14 Cal Poly SLO                30 Weber St                    24
+11-Oct-14 Florida Tech                33 West Alabama                32
+11-Oct-14 Fairmont St                 16 West Liberty                39
+11-Oct-14 Midwestern St               13 West Texas A&M              34
+11-Oct-14 WV Wesleyan                 25 West Virginia St            22
+11-Oct-14 Wofford                     14 Western Carolina            26
+11-Oct-14 Salve Regina                31 Western New England         34
+11-Oct-14 Dixie St                    14 Western Oregon              19
+11-Oct-14 Black Hills St              13 Western St CO               34
+11-Oct-14 Eureka                       3 Westminster MO              30
+11-Oct-14 Thiel                       28 Westminster PA              40
+11-Oct-14 Willamette                  45 Whitworth                   61
+11-Oct-14 Middlebury                  23 Williams                    20
+11-Oct-14 John Carroll                69 Wilmington                   0
+11-Oct-14 Catawba                     19 Wingate                     30
+11-Oct-14 Illinois                    28 Wisconsin                   38
+11-Oct-14 Benedictine IL               6 Wisconsin Lutheran          17
+11-Oct-14 Allegheny                   21 Wooster                     42
+11-Oct-14 Fitchburg St                40 Worcester St                24
+11-Oct-14 Union NY                     7 WPI                         23
+11-Oct-14 Dartmouth                   38 Yale                        31
+11-Oct-14 Western Illinois            30 Youngstown St               24
+14-Oct-14 Louisiana-Lafayette         34 Texas St-San Marcos         10
+16-Oct-14 Dakota St                   22 Briar Cliff                 17
+16-Oct-14 West Virginia St            10 Charleston WV               28
+16-Oct-14 Gannon                      52 Edinboro                     7
+16-Oct-14 Colorado Mines              56 Fort Lewis                  14
+16-Oct-14 Utah                        29 Oregon St                   23
+16-Oct-14 Virginia Tech               16 Pittsburgh                  21
+16-Oct-14 West Alabama                55 Shorter                     10
+17-Oct-14 Fresno St                   27 Boise St                    37
+17-Oct-14 Johns Hopkins               42 Dickinson                    7
+17-Oct-14 Temple                      10 Houston                     31
+17-Oct-14 Concordia-St Paul            6 Minn St-Mankato             38
+18-Oct-14 Albion                      26 Adrian                      47
+18-Oct-14 New Mexico                  31 Air Force                   35
+18-Oct-14 Texas A&M                    0 Alabama                     59
+18-Oct-14 Texas Southern              25 Alcorn St                   40
+18-Oct-14 Warner U.                   21 Alderson-Broaddus           45
+18-Oct-14 Brockport St                45 Alfred                      42
+18-Oct-14 Oberlin                     37 Allegheny                    9
+18-Oct-14 New Haven                   31 American Int'l              24
+18-Oct-14 Hanover                     35 Anderson                    37
+18-Oct-14 SUNY-Maritime               40 Anna Maria                  12
+18-Oct-14 Stanford                    10 Arizona St                  26                 
+18-Oct-14 Georgia                     45 Arkansas                    32 Little Rock AR
+18-Oct-14 Henderson St                24 Arkansas Tech                3
+18-Oct-14 Concordia-Moorhead          41 Augsburg                    21
+18-Oct-14 Benedictine IL              26 Aurora                       0
+18-Oct-14 Murray St                   13 Austin Peay                 20
+18-Oct-14 Southeastern U.             35 Ave Maria                   38
+18-Oct-14 Christopher Newport         38 Averett                      7
+18-Oct-14 Baker                       45 Avila                        3
+18-Oct-14 Dixie St                    27 Azusa Pacific               49
+18-Oct-14 Norwich                     37 Becker                      20
+18-Oct-14 Reinhardt                   35 Belhaven                    24
+18-Oct-14 Macalester                  28 Beloit                      21
+18-Oct-14 Minot St                    17 Bemidji St                  31
+18-Oct-14 Peru St                      6 Benedictine KS              49
+18-Oct-14 Hendrix                     24 Berry                       46
+18-Oct-14 Wash & Jeff                 34 Bethany WV                   3
+18-Oct-14 Southwestern KS              7 Bethel KS                   29
+18-Oct-14 Chicago                     21 Bethel MN                   52
+18-Oct-14 Pikeville                   14 Bethel TN                   28
+18-Oct-14 Adams St                    37 Black Hills St              27
+18-Oct-14 Clemson                     17 Boston College              13
+18-Oct-14 Trinity CT                  17 Bowdoin                     10
+18-Oct-14 Virginia St                 24 Bowie St                    14
+18-Oct-14 Western Michigan            26 Bowling Green               14
+18-Oct-14 Wingate                     43 Brevard                     21
+18-Oct-14 Plymouth St                  0 Bridgewater St MA           24
+18-Oct-14 Nevada                      42 Brigham Young               35               
+18-Oct-14 Luther                      41 Buena Vista                 48
+18-Oct-14 San Diego                   27 Butler                      21
+18-Oct-14 Pomona-Pitzer               17 Cal Lutheran                41
+18-Oct-14 UCLA                        36 California                  34
+18-Oct-14 Indiana PA                  13 California PA               21
+18-Oct-14 Davidson                    27 Campbell                    28
+18-Oct-14 Ohio Northern               38 Capital                     31
+18-Oct-14 St Olaf                     17 Carleton                    13
+18-Oct-14 Grove City                  10 Carnegie Mellon             21
+18-Oct-14 Southern Oregon             40 Carroll MT                  42
+18-Oct-14 Lawrence                     7 Carroll WI                  76
+18-Oct-14 Geneva                      19 Case Western Reserve        33
+18-Oct-14 Shenandoah                  24 Catholic                    14
+18-Oct-14 Tulane                      13 Central Florida             20
+18-Oct-14 Loras                       14 Central IA                  41
+18-Oct-14 Ball St                     32 Central Michigan            29
+18-Oct-14 Central Oklahoma            20 Central Missouri            31
+18-Oct-14 Concordia AL                 6 Central St OH               31
+18-Oct-14 Western Oregon              20 Central Washington          24
+18-Oct-14 Occidental                  21 Chapman                     59
+18-Oct-14 Presbyterian                 7 Charleston Southern          3
+18-Oct-14 Lock Haven                  28 Cheyney                      0
+18-Oct-14 Virginia Union              40 Chowan                      29
+18-Oct-14 Benedict                    20 Clark Atlanta               10
+18-Oct-14 Hamilton                    16 Colby                       47
+18-Oct-14 Utah St                     13 Colorado St                 16
+18-Oct-14 Chadron St                  13 Colorado St-Pueblo          41
+18-Oct-14 Wisconsin Lutheran          59 Concordia IL                15
+18-Oct-14 Northwestern IA             27 Concordia NE                21
+18-Oct-14 Lehigh                      31 Cornell                     14
+18-Oct-14 Knox                        29 Cornell IA                  49
+18-Oct-14 Southern Virginia            0 Cortland St                 35
+18-Oct-14 Minnesota-Morris            27 Crown                       30
+18-Oct-14 Holy Cross                  21 Dartmouth                   24
+18-Oct-14 Morehead St                  7 Dayton                      41
+18-Oct-14 Rose-Hulman                 28 Defiance                    12
+18-Oct-14 Towson                      24 Delaware                    17
+18-Oct-14 North Carolina A&T          33 Delaware St                 20
+18-Oct-14 Ohio Wesleyan               23 DePauw                      16
+18-Oct-14 Nebraska Wesleyan           20 Dordt                       24
+18-Oct-14 Virginia                    13 Duke                        20
+18-Oct-14 Sacred Heart                23 Duquesne                    20
+18-Oct-14 Bluffton                    24 Earlham                     22
+18-Oct-14 Howard Payne                54 East Texas Baptist          53
+18-Oct-14 Tarleton St                 59 Eastern New Mexico          42
+18-Oct-14 Northern Colorado           18 Eastern Washington          26
+18-Oct-14 North Park                   0 Elmhurst                    28
+18-Oct-14 Stony Brook                 20 Elon                         3
+18-Oct-14 Fort Hays St                26 Emporia St                  21
+18-Oct-14 MacMurray                   58 Eureka                      27
+18-Oct-14 MidAmerica Nazarene         52 Evangel                      7
+18-Oct-14 Cumberland TN               16 Faulkner                    34
+18-Oct-14 Johnson C. Smith            14 Fayetteville St             34
+18-Oct-14 King's PA                   45 FDU-Florham                 17
+18-Oct-14 Huntingdon AL               35 Ferrum                      16
+18-Oct-14 Western Conn St             20 Fitchburg St                14
+18-Oct-14 Missouri                    42 Florida                     13
+18-Oct-14 Western Kentucky            38 Florida Atlantic            45
+18-Oct-14 Marshall                    45 Florida Int'l               13
+18-Oct-14 Notre Dame                  27 Florida St                  31
+18-Oct-14 North Alabama               34 Florida Tech                31
+18-Oct-14 Limestone                   19 Fort Valley St              24
+18-Oct-14 McDaniel                     7 Franklin & Marshall         31
+18-Oct-14 Ithaca                      37 Frostburg St                38
+18-Oct-14 Puget Sound                 33 George Fox                  14
+18-Oct-14 Cumberlands KY              13 Georgetown KY               42
+18-Oct-14 Central Methodist           23 Graceland                   31
+18-Oct-14 Arkansas-Pine Bluff         39 Grambling St                63
+18-Oct-14 Maryville                   39 Greensboro                  14
+18-Oct-14 Illinois College            35 Grinnell                    10
+18-Oct-14 Bridgewater VA              28 Guilford                    35
+18-Oct-14 St John's MN                29 Gustavus Adolphus           19
+18-Oct-14 St Thomas                   62 Hamline                     24
+18-Oct-14 Emory & Henry               27 Hampden-Sydney              49
+18-Oct-14 Norfolk St                  21 Hampton                     13
+18-Oct-14 Ouachita Baptist            31 Harding                     28
+18-Oct-14 Sul Ross St                 12 Hardin-Simmons              19
+18-Oct-14 Lafayette                   14 Harvard                     24
+18-Oct-14 Ashland                     17 Hillsdale                    7
+18-Oct-14 Olivet                      35 Hope                        42
+18-Oct-14 Stephen F. Austin           59 Houston Baptist             27
+18-Oct-14 Florida A&M                 31 Howard                      28
+18-Oct-14 Gallaudet                    6 Husson                      12
+18-Oct-14 New Mexico St               17 Idaho                       29
+18-Oct-14 Southern Utah               28 Idaho St                    56
+18-Oct-14 Augustana IL                 7 Illinois Wesleyan            2
+18-Oct-14 Michigan St                 56 Indiana                     17
+18-Oct-14 Westminster MO              21 Iowa Wesleyan               37
+18-Oct-14 Mayville St                  6 Jamestown                   63
+18-Oct-14 Marietta                     0 John Carroll                80
+18-Oct-14 Ursinus                     10 Juniata                     38
+18-Oct-14 Alma                        24 Kalamazoo                   45
+18-Oct-14 Bethany KS                  42 Kansas Wesleyan             10
+18-Oct-14 Army                        17 Kent St                     39
+18-Oct-14 Miles                       19 Kentucky St                 13
+18-Oct-14 Lindenwood-Belleville       28 Kentucky Wesleyan           55
+18-Oct-14 Wabash                      52 Kenyon                      10
+18-Oct-14 Bloomsburg                  31 Kutztown                    13
+18-Oct-14 Methodist                   73 LaGrange                    28
+18-Oct-14 Saginaw Valley St           21 Lake Erie                   24
+18-Oct-14 Monmouth IL                 31 Lake Forest                  7
+18-Oct-14 Wayland Baptist              7 Langston                    38
+18-Oct-14 Texas College                6 Lincoln MO                  62
+18-Oct-14 Elizabeth City St           27 Lincoln PA                  26
+18-Oct-14 Whitworth                   13 Linfield                    65
+18-Oct-14 St Anselm                   21 LIU Post                    49
+18-Oct-14 Shaw                        20 Livingstone                 21
+18-Oct-14 Texas-San Antonio           20 Louisiana Tech              27
+18-Oct-14 North Carolina St           18 Louisville                  30
+18-Oct-14 Kentucky                     3 LSU                         41
+18-Oct-14 Albany NY                   20 Maine                        7
+18-Oct-14 Coast Guard                  7 Maine Maritime              13
+18-Oct-14 William Penn                14 Marian IN                   37
+18-Oct-14 St Scholastica              49 Martin Luther               14
+18-Oct-14 Louisiana College           24 Mary Hardin-Baylor          45
+18-Oct-14 Iowa                        31 Maryland                    38
+18-Oct-14 Westfield St                32 Mass Maritime               16
+18-Oct-14 Eastern Michigan            14 Massachusetts               36
+18-Oct-14 Abilene Christian           20 McNeese St                  31
+18-Oct-14 St Mary KS                   9 McPherson                   24
+18-Oct-14 Wesley                      70 Menlo                        2
+18-Oct-14 Western Carolina            35 Mercer                      21
+18-Oct-14 Assumption                  41 Merrimack                   13
+18-Oct-14 Grand Valley St             14 Michigan Tech               35
+18-Oct-14 Alabama-Birmingham          22 Middle Tennessee St         34
+18-Oct-14 Bates                        7 Middlebury                  35
+18-Oct-14 Hastings                    48 Midland U.                  28
+18-Oct-14 McMurry                     13 Midwestern St               71
+18-Oct-14 East Stroudsburg            35 Millersville                13
+18-Oct-14 Wheaton                     28 Millikin                     3
+18-Oct-14 Birmingham-Southern         16 Millsaps                    14
+18-Oct-14 St Cloud St                 62 Minn St-Moorhead            27
+18-Oct-14 Purdue                      38 Minnesota                   39
+18-Oct-14 Mary                        19 Minnesota-Crookston         10
+18-Oct-14 Northern St SD              31 Minnesota-Duluth            43
+18-Oct-14 Tennessee                    3 Mississippi                 34
+18-Oct-14 Valdosta St                 62 Mississippi College          0
+18-Oct-14 Prairie View A&M            52 Mississippi Valley St       19
+18-Oct-14 William Jewell              34 Missouri S&T                27
+18-Oct-14 Northeastern St OK           9 Missouri Southern           34
+18-Oct-14 South Dakota                12 Missouri St                 31
+18-Oct-14 Culver-Stockton             15 Missouri Valley             63
+18-Oct-14 UC-Davis                    28 Montana                     42
+18-Oct-14 Weber St                    13 Montana St                  23
+18-Oct-14 Montana Tech                34 Montana St-Northern         37
+18-Oct-14 Eastern Oregon              28 Montana-Western             34
+18-Oct-14 New Jersey                   7 Montclair St                28
+18-Oct-14 Susquehanna                 24 Moravian                    21
+18-Oct-14 Albany St GA                31 Morehouse                   14
+18-Oct-14 North Carolina Central      20 Morgan St                   21
+18-Oct-14 Dakota Wesleyan              7 Morningside                 50
+18-Oct-14 Castleton St                21 Mount Ida                   26
+18-Oct-14 Heidelberg                  17 Mount Union                 58
+18-Oct-14 Franklin                    38 Mt St Joseph                28
+18-Oct-14 Gettysburg                   6 Muhlenberg                  47
+18-Oct-14 Otterbein                   32 Muskingum                   20
+18-Oct-14 Lindenwood                  14 Nebraska-Kearney            31
+18-Oct-14 Western St CO               43 New Mexico Highlands        46
+18-Oct-14 Lenoir-Rhyne                23 Newberry                    10
+18-Oct-14 Lamar                       63 Nicholls St                 21
+18-Oct-14 MIT                         52 Nichols                     20
+18-Oct-14 Georgia Tech                43 North Carolina              48
+18-Oct-14 Carthage                    23 North Central               53
+18-Oct-14 Indiana St                  17 North Dakota St             34
+18-Oct-14 Mars Hill                   30 North Greenville            27
+18-Oct-14 Southern Miss               30 North Texas                 20
+18-Oct-14 Miami OH                    41 Northern Illinois           51
+18-Oct-14 South Dakota St             31 Northern Iowa               28
+18-Oct-14 Wayne St MI                 30 Northern Michigan           33
+18-Oct-14 Nebraska                    38 Northwestern                17
+18-Oct-14 Greenville                  28 Northwestern MN             35
+18-Oct-14 Sam Houston St              27 Northwestern St             31
+18-Oct-14 Findlay                     33 Northwood                   35
+18-Oct-14 Shepherd                    34 Notre Dame OH               35
+18-Oct-14 Pittsburg St                37 NW Missouri St              17
+18-Oct-14 East Central OK             67 NW Oklahoma St               7
+18-Oct-14 Ferris St                   34 Ohio Dominican              19
+18-Oct-14 Rutgers                     17 Ohio State                  56
+18-Oct-14 Akron                       20 Ohio U.                     23
+18-Oct-14 Bacone                      27 OK Panhandle St             37
+18-Oct-14 Kansas St                   31 Oklahoma                    30
+18-Oct-14 Haskell                      6 Oklahoma Baptist            47
+18-Oct-14 St Ambrose                  41 Olivet Nazarene             17
+18-Oct-14 Washington                  20 Oregon                      45
+18-Oct-14 Sterling                    41 Ottawa                      42
+18-Oct-14 Stonehill                   33 Pace                         0
+18-Oct-14 Pacific Lutheran            28 Pacific OR                  31
+18-Oct-14 Edward Waters               14 Paine                       38
+18-Oct-14 Columbia                     7 Pennsylvania                31
+18-Oct-14 Webber Int'l                13 Point U.                     3
+18-Oct-14 Northern Arizona            21 Portland St                 17
+18-Oct-14 Waldorf                     10 Presentation                41
+18-Oct-14 Brown                       16 Princeton                   27
+18-Oct-14 Claremont-Mudd-Scripps       7 Redlands                    31
+18-Oct-14 Rhode Island                 0 Richmond                    37
+18-Oct-14 Central Conn St             24 Robert Morris PA            27
+18-Oct-14 RPI                         20 Rochester                   34
+18-Oct-14 Lakeland                    34 Rockford                     7
+18-Oct-14 Coll of Idaho               21 Rocky Mountain              35
+18-Oct-14 Morrisville St               0 Rowan                       31
+18-Oct-14 Cal Poly SLO                56 Sacramento St               27
+18-Oct-14 Hartwick                    49 Salisbury                   59
+18-Oct-14 Curry                        6 Salve Regina                49
+18-Oct-14 Wofford                     24 Samford                     20
+18-Oct-14 Hawai`i                     10 San Diego St                20                
+18-Oct-14 Bethune-Cookman             48 Savannah St                 20
+18-Oct-14 Central Arkansas            24 SE Louisiana                41
+18-Oct-14 Eastern Illinois            52 SE Missouri St              13
+18-Oct-14 Clarion                     16 Seton Hill                  30
+18-Oct-14 Centre                      31 Sewanee                      3
+18-Oct-14 Concordia MI                 3 Siena Heights               33
+18-Oct-14 South Dakota Tech           31 Simon Fraser                53
+18-Oct-14 Coe                         35 Simpson                     21
+18-Oct-14 SW Minnesota St             21 Sioux Falls                 44
+18-Oct-14 Mercyhurst                  45 Slippery Rock               23 Ann Arbor MI
+18-Oct-14 Cincinnati                  41 SMU                          3
+18-Oct-14 Georgia St                  27 South Alabama               30
+18-Oct-14 Furman                      10 South Carolina              41
+18-Oct-14 Southern Nazarene            7 Southern Arkansas           62
+18-Oct-14 Colorado                    28 Southern Cal                56
+18-Oct-14 Bentley                     38 Southern Conn St             7
+18-Oct-14 Merchant Marine             21 Springfield                 48
+18-Oct-14 St Francis IL               20 St Francis IN               42
+18-Oct-14 Bryant                      42 St Francis PA               27
+18-Oct-14 Quincy                      17 St Joseph's IN               7
+18-Oct-14 Ripon                       10 St Norbert                  13
+18-Oct-14 Jacksonville FL             30 Stetson                      7
+18-Oct-14 Delaware Valley             35 Stevenson                   13
+18-Oct-14 Tuskegee                    61 Stillman                    19
+18-Oct-14 Austin                      27 SW Assem of God             20
+18-Oct-14 McKendree                   53 SW Baptist                  43
+18-Oct-14 SE Oklahoma St              28 SW Oklahoma St              24
+18-Oct-14 Friends                     14 Tabor                       11
+18-Oct-14 West Texas A&M              21 TAMU-Commerce               48
+18-Oct-14 Angelo St                   57 TAMU-Kingsville             31
+18-Oct-14 Robert Morris IL            24 Taylor                      27
+18-Oct-14 Oklahoma St                  9 TCU                         42
+18-Oct-14 Tennessee-Martin            21 Tennessee St                16
+18-Oct-14 Eastern Kentucky            31 Tennessee Tech              39
+18-Oct-14 Iowa St                     45 Texas                       48
+18-Oct-14 Kansas                      21 Texas Tech                  34
+18-Oct-14 Chattanooga                 34 The Citadel                 14
+18-Oct-14 St Vincent                   7 Thomas More                 49
+18-Oct-14 Missouri Baptist            13 Tiffin                      53
+18-Oct-14 Concordia WI                49 Trine                       46
+18-Oct-14 Grand View                  47 Trinity Int'l               13
+18-Oct-14 Southwestern TX             19 Trinity TX                  22
+18-Oct-14 Appalachian St              53 Troy                        14
+18-Oct-14 Indianapolis                23 Truman St                   20
+18-Oct-14 Williams                    21 Tufts                       27
+18-Oct-14 South Florida               38 Tulsa                       30
+18-Oct-14 Carson-Newman               55 Tusculum                    35
+18-Oct-14 Catawba                     30 UNC-Pembroke                17
+18-Oct-14 Bluefield                   68 Union KY                    56
+18-Oct-14 Western New England         36 Union NY                    14
+18-Oct-14 Winona St                   41 Upper Iowa                  19
+18-Oct-14 West Liberty                44 Urbana                      14
+18-Oct-14 St John Fisher              42 Utica                        7
+18-Oct-14 UW-Whitewater               52 UW-Eau Claire                3
+18-Oct-14 UW-Stout                     7 UW-La Crosse                21
+18-Oct-14 UW-River Falls               7 UW-Oshkosh                  37
+18-Oct-14 UW-Stevens Point            13 UW-Platteville              31
+18-Oct-14 Dickinson St                17 Valley City St              22
+18-Oct-14 Drake                       17 Valparaiso                   9
+18-Oct-14 Glenville St                35 Virginia-Wise                9
+18-Oct-14 Gardner-Webb                47 VMI                         41
+18-Oct-14 Syracuse                    30 Wake Forest                  7
+18-Oct-14 Malone                      13 Walsh                       35
+18-Oct-14 Dubuque                      9 Wartburg                    42
+18-Oct-14 Missouri Western            42 Washburn                    14
+18-Oct-14 Randolph-Macon              25 Washington and Lee          28
+18-Oct-14 Augustana SD                59 Wayne St NE                 48
+18-Oct-14 Amherst                     35 Wesleyan                    30
+18-Oct-14 Shippensburg                28 West Chester                55
+18-Oct-14 Delta St                    16 West Georgia                24
+18-Oct-14 Baylor                      27 West Virginia               41
+18-Oct-14 Illinois St                 37 Western Illinois            34
+18-Oct-14 Colorado Mesa               45 Western New Mexico          35
+18-Oct-14 Waynesburg                  26 Westminster PA              21
+18-Oct-14 La Verne                    17 Whittier                    36
+18-Oct-14 Wilkes                      12 Widener                     59
+18-Oct-14 Lewis & Clark                7 Willamette                  45
+18-Oct-14 Villanova                   35 William & Mary              31
+18-Oct-14 Kean                        30 William Paterson            24
+18-Oct-14 Baldwin Wallace             56 Wilmington                  17
+18-Oct-14 St Augustine's              13 Winston-Salem St            36
+18-Oct-14 Wittenberg                  42 Wooster                      7
+18-Oct-14 UMass-Dartmouth             43 Worcester St                50
+18-Oct-14 Concord                     61 WV Wesleyan                 12
+18-Oct-14 San José St                 27 Wyoming                     20
+18-Oct-14 Colgate                     31 Yale                        45
+18-Oct-14 Southern Illinois           14 Youngstown St               26

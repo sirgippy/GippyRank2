@@ -1,0 +1,128 @@
+Boston College
+Clemson
+Florida St
+Maryland
+North Carolina St
+Wake Forest
+Duke
+Georgia Tech
+Miami FL
+North Carolina
+Virginia
+Virginia Tech
+Illinois
+Indiana
+Iowa
+Michigan
+Michigan St
+Minnesota
+Northwestern
+Ohio State
+Penn State
+Purdue
+Wisconsin
+Colorado
+Iowa St
+Kansas
+Kansas St
+Missouri
+Nebraska
+Baylor
+Oklahoma
+Oklahoma St
+Texas
+Texas A&M
+Texas Tech
+Cincinnati
+Connecticut
+Louisville
+Pittsburgh
+Rutgers
+South Florida
+Syracuse
+West Virginia
+Alabama-Birmingham
+Central Florida
+East Carolina
+Marshall
+Memphis
+Southern Miss
+Houston
+Rice
+SMU
+Tulane
+Tulsa
+UTEP
+Akron
+Bowling Green
+Buffalo
+Kent St
+Miami OH
+Ohio U.
+Temple
+Ball St
+Central Michigan
+Eastern Michigan
+Northern Illinois
+Toledo
+Western Michigan
+Air Force
+Brigham Young
+Colorado St
+New Mexico
+San Diego St
+TCU
+UNLV
+Utah
+Wyoming
+Arizona
+Arizona St
+California
+Oregon
+Oregon St
+Southern Cal
+Stanford
+UCLA
+Washington
+Washington St
+Florida
+Georgia
+Kentucky
+South Carolina
+Tennessee
+Vanderbilt
+Alabama
+Arkansas
+Auburn
+LSU
+Mississippi
+Mississippi St
+Arkansas St
+Florida Atlantic
+Florida Int'l
+Louisiana-Lafayette
+Louisiana-Monroe
+Middle Tennessee St
+North Texas
+Troy
+Western Kentucky
+Boise St
+Fresno St
+Hawai`i
+Idaho
+Louisiana Tech
+New Mexico St
+Nevada
+San José St
+Utah St
+Army
+Navy
+Notre Dame
+Massachusetts
+Texas-San Antonio
+South Alabama
+Texas St-San Marcos
+Georgia St
+Old Dominion
+Georgia Southern
+Appalachian St
